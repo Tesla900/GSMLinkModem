@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25SF321B-SSHB-T
+D FLASH - NOR Memory IC 32Mb (4M x 8) SPI - Quad I/O 108MHz  8-SOIC
+K SPI DSPI 32Mbit FLASH
+F https://www.digikey.com/en/products/detail/adesto-technologies/AT25SF321B-SSHB-T/10280630
+$ENDCMP
+#
+$CMP BC66
+D Quectel NB-IoT Global, AT Command Set
+K NB-IoT Data SMS
+F https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf
+$ENDCMP
+#
+$CMP EFM32TG11B320F128GQ64-B
+D ARM Cortex-M0+ Tiny Gecko 1 Microcontroller IC 32-Bit 48MHz 128KB (128K x 8) FLASH 64-TQFP (10x10)
+K EFM32, ARM, MCU
+F https://www.digikey.com/en/products/detail/silicon-labs/EFM32TG11B320F128GQ64-B/9677681
+$ENDCMP
+#
+$CMP EFM32TG222F32-QFP48T
+D ARM® Cortex®-M3 Tiny Gecko Microcontroller IC 32-Bit 32MHz 32KB (32K x 8) FLASH 48-TQFP (7x7)
+K EFM32, ARM, MCU
+F https://www.silabs.com/documents/public/data-sheets/efm32tg-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
