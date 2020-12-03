@@ -75,11 +75,11 @@ U 1 1 5FC30BD2
 P 16350 9300
 F 0 "C56" H 16465 9346 50  0000 L CNN
 F 1 "0.1uF" H 16465 9255 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 16388 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 16350 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 16388 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 16350 9300 50  0001 C CNN
 F 4 "25V" H 16465 9209 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 16350 9300 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 16350 9300 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 16350 9300 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 16350 9300 50  0001 C CNN "Description"
 	1    16350 9300
 	1    0    0    -1  
 $EndComp
@@ -89,11 +89,11 @@ U 1 1 5FC31BAD
 P 15950 9300
 F 0 "C55" H 16065 9346 50  0000 L CNN
 F 1 "10uF" H 16065 9255 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 15988 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 15950 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 15988 9150 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 15950 9300 50  0001 C CNN
 F 4 "25V" H 16065 9209 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 15950 9300 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 15950 9300 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 15950 9300 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 15950 9300 50  0001 C CNN "Description"
 	1    15950 9300
 	1    0    0    -1  
 $EndComp
@@ -103,11 +103,11 @@ U 1 1 5FC334A0
 P 16800 9300
 F 0 "C57" H 16915 9346 50  0000 L CNN
 F 1 "0.1uF" H 16915 9255 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 16838 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 16800 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 16838 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 16800 9300 50  0001 C CNN
 F 4 "25V" H 16915 9209 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 16800 9300 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 16800 9300 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 16800 9300 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 16800 9300 50  0001 C CNN "Description"
 	1    16800 9300
 	1    0    0    -1  
 $EndComp
@@ -117,11 +117,11 @@ U 1 1 5FC34353
 P 17250 9300
 F 0 "C60" H 17365 9346 50  0000 L CNN
 F 1 "0.1uF" H 17365 9255 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 17288 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 17250 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 17288 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 17250 9300 50  0001 C CNN
 F 4 "25V" H 17365 9209 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 17250 9300 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 17250 9300 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 17250 9300 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 17250 9300 50  0001 C CNN "Description"
 	1    17250 9300
 	1    0    0    -1  
 $EndComp
@@ -131,11 +131,11 @@ U 1 1 5FC34916
 P 17700 9300
 F 0 "C61" H 17815 9346 50  0000 L CNN
 F 1 "0.1uF" H 17815 9255 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 17738 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 17700 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 17738 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 17700 9300 50  0001 C CNN
 F 4 "25V" H 17815 9209 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 17700 9300 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 17700 9300 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 17700 9300 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 17700 9300 50  0001 C CNN "Description"
 	1    17700 9300
 	1    0    0    -1  
 $EndComp
@@ -156,10 +156,10 @@ U 1 1 5FC5F270
 P 12500 9150
 F 0 "FB1" V 12750 9000 50  0000 C CNN
 F 1 "1 kOhms @ 100MHz" V 12650 8700 50  0000 C CNN
-F 2 "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12430 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/tdk-corporation/MPZ2012S102JTD25/7915578" H 12500 9150 50  0001 C CNN
-F 4 "MPZ2012S102JTD25" H 12500 9150 50  0001 C CNN "PartNumber"
-F 5 "1 kOhms @ 100MHz 1 Power Line Ferrite Bead 0805 (2012 Metric) 1.5A 150mOhm" H 12500 9150 50  0001 C CNN "Description"
+F 2 "Inductor_SMD:L_0402_1005Metric" V 12430 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/murata-electronics/BLM15AG102SN1D/584218" H 12500 9150 50  0001 C CNN
+F 4 "BLM15AG102SN1D" H 12500 9150 50  0001 C CNN "PartNumber"
+F 5 "1 kOhms @ 100MHz 1  Ferrite Bead 0402 (1005 Metric) 300mA 650mOhm" H 12500 9150 50  0001 C CNN "Description"
 	1    12500 9150
 	0    -1   -1   0   
 $EndComp
@@ -169,11 +169,11 @@ U 1 1 5FC6E8C6
 P 12750 9400
 F 0 "C41" H 12865 9446 50  0000 L CNN
 F 1 "10uF" H 12865 9355 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 12788 9250 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 12750 9400 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12788 9250 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 12750 9400 50  0001 C CNN
 F 4 "25V" H 12865 9309 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 12750 9400 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 12750 9400 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 12750 9400 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 12750 9400 50  0001 C CNN "Description"
 	1    12750 9400
 	1    0    0    -1  
 $EndComp
@@ -229,11 +229,11 @@ U 1 1 5FC8FF34
 P 13150 9400
 F 0 "C45" H 13265 9446 50  0000 L CNN
 F 1 "0.1uF" H 13265 9355 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 13188 9250 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 13150 9400 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 13188 9250 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 13150 9400 50  0001 C CNN
 F 4 "25V" H 13265 9309 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 13150 9400 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 13150 9400 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 13150 9400 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 13150 9400 50  0001 C CNN "Description"
 	1    13150 9400
 	1    0    0    -1  
 $EndComp
@@ -277,11 +277,11 @@ U 1 1 5FBC592C
 P 14300 13800
 F 0 "C49" H 14350 13950 50  0000 L CNN
 F 1 "0.1uF" H 14350 13700 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 14338 13650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 14300 13800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 14338 13650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 14300 13800 50  0001 C CNN
 F 4 "25V" H 14415 13709 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 14300 13800 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 14300 13800 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 14300 13800 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 14300 13800 50  0001 C CNN "Description"
 	1    14300 13800
 	1    0    0    -1  
 $EndComp
@@ -291,10 +291,10 @@ U 1 1 5FBCB540
 P 14300 13050
 F 0 "R45" H 14370 13096 50  0000 L CNN
 F 1 "10K" H 14370 13005 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14230 13050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 14300 13050 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 14300 13050 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 14300 13050 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14230 13050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 14300 13050 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 14300 13050 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14300 13050 50  0001 C CNN "Description"
 	1    14300 13050
 	1    0    0    -1  
 $EndComp
@@ -311,11 +311,11 @@ U 1 1 5FBD3C55
 P 14750 13800
 F 0 "C52" H 14865 13846 50  0000 L CNN
 F 1 "1uF" H 14865 13755 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 14788 13650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KKX7R8BB105/2833621" H 14750 13800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 14788 13650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R7BB105/2833611" H 14750 13800 50  0001 C CNN
 F 4 "25V" H 14865 13709 50  0001 L CNN "Voltage"
-F 5 "CC0805KKX7R8BB105" H 14750 13800 50  0001 C CNN "PartNumber"
-F 6 "1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 14750 13800 50  0001 C CNN "Description"
+F 5 "CC0603KRX7R7BB105" H 14750 13800 50  0001 C CNN "PartNumber"
+F 6 "1µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)" H 14750 13800 50  0001 C CNN "Description"
 	1    14750 13800
 	1    0    0    -1  
 $EndComp
@@ -368,10 +368,10 @@ U 1 1 5FBDDA5E
 P 14050 13400
 F 0 "R44" V 13843 13400 50  0000 C CNN
 F 1 "22R" V 13934 13400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 13980 13400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 14050 13400 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 14050 13400 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 14050 13400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 13980 13400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 14050 13400 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 14050 13400 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14050 13400 50  0001 C CNN "Description"
 	1    14050 13400
 	0    1    1    0   
 $EndComp
@@ -506,11 +506,11 @@ U 1 1 5FC48C00
 P 13600 13500
 F 0 "C47" H 13350 13400 50  0000 L CNN
 F 1 "DNP" H 13350 13300 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 13638 13350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 13600 13500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 13638 13350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 13600 13500 50  0001 C CNN
 F 4 "50V" H 13715 13409 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 13600 13500 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 13600 13500 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 13600 13500 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 13600 13500 50  0001 C CNN "Description"
 	1    13600 13500
 	1    0    0    -1  
 $EndComp
@@ -572,11 +572,11 @@ U 1 1 5FC728DF
 P 13000 13500
 F 0 "C42" H 12800 13400 50  0000 L CNN
 F 1 "DNP" H 12800 13300 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 13038 13350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 13000 13500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 13038 13350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 13000 13500 50  0001 C CNN
 F 4 "50V" H 13115 13409 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 13000 13500 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 13000 13500 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 13000 13500 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 13000 13500 50  0001 C CNN "Description"
 	1    13000 13500
 	1    0    0    -1  
 $EndComp
@@ -586,11 +586,11 @@ U 1 1 5FC730BC
 P 12700 13500
 F 0 "C40" H 12500 13400 50  0000 L CNN
 F 1 "18pF" H 12500 13300 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 12738 13350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 12700 13500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 12738 13350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 12700 13500 50  0001 C CNN
 F 4 "50V" H 12815 13409 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 12700 13500 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 12700 13500 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 12700 13500 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 12700 13500 50  0001 C CNN "Description"
 	1    12700 13500
 	1    0    0    -1  
 $EndComp
@@ -600,11 +600,11 @@ U 1 1 5FC7395F
 P 12100 13500
 F 0 "C38" H 11900 13400 50  0000 L CNN
 F 1 "18pF" H 11900 13300 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 12138 13350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 12100 13500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 12138 13350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 12100 13500 50  0001 C CNN
 F 4 "50V" H 12215 13409 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 12100 13500 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 12100 13500 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 12100 13500 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 12100 13500 50  0001 C CNN "Description"
 	1    12100 13500
 	1    0    0    -1  
 $EndComp
@@ -614,11 +614,11 @@ U 1 1 5FBD8085
 P 18300 7200
 F 0 "C63" V 18550 7200 50  0000 L CNN
 F 1 "0.1uF" V 18450 7100 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 18338 7050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 18300 7200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 18338 7050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 18300 7200 50  0001 C CNN
 F 4 "25V" H 18415 7109 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 18300 7200 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 18300 7200 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 18300 7200 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 18300 7200 50  0001 C CNN "Description"
 	1    18300 7200
 	0    -1   -1   0   
 $EndComp
@@ -734,11 +734,11 @@ U 1 1 5FD0E0B9
 P 16900 6350
 F 0 "C58" V 16750 6450 50  0000 L CNN
 F 1 "10uF" V 16850 6450 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 16938 6200 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 16900 6350 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 16938 6200 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 16900 6350 50  0001 C CNN
 F 4 "25V" H 17015 6259 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 16900 6350 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 16900 6350 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 16900 6350 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 16900 6350 50  0001 C CNN "Description"
 	1    16900 6350
 	0    1    1    0   
 $EndComp
@@ -748,11 +748,11 @@ U 1 1 5FD0CB02
 P 16900 6600
 F 0 "C59" V 16750 6700 50  0000 L CNN
 F 1 "0.1uF" V 16850 6700 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 16938 6450 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 16900 6600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 16938 6450 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 16900 6600 50  0001 C CNN
 F 4 "25V" H 17015 6509 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 16900 6600 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 16900 6600 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 16900 6600 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 16900 6600 50  0001 C CNN "Description"
 	1    16900 6600
 	0    1    1    0   
 $EndComp
@@ -930,7 +930,7 @@ U 1 1 5FDF33FB
 P 14400 9700
 F 0 "C51" H 14515 9746 50  0000 L CNN
 F 1 "10nF" H 14515 9655 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 14438 9550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 14438 9550 50  0001 C CNN
 F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 14400 9700 50  0001 C CNN
 F 4 "100V" H 14515 9609 50  0001 L CNN "Voltage"
 F 5 "CC1206JKNPO0BN103" H 14400 9700 50  0001 C CNN "PartNumber"
@@ -959,11 +959,11 @@ U 1 1 5FE11943
 P 14850 9700
 F 0 "C53" H 14965 9746 50  0000 L CNN
 F 1 "10uF" H 14965 9655 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 14888 9550 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 14850 9700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 14888 9550 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 14850 9700 50  0001 C CNN
 F 4 "25V" H 14965 9609 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 14850 9700 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 14850 9700 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 14850 9700 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 14850 9700 50  0001 C CNN "Description"
 	1    14850 9700
 	1    0    0    -1  
 $EndComp
@@ -986,9 +986,9 @@ U 1 1 5FEBEC94
 P 14650 9350
 F 0 "R50" V 14750 9300 50  0000 L CNN
 F 1 "2K" V 14550 9300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14580 9350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-072KL/728268" H 14650 9350 50  0001 C CNN
-F 4 "RC0805JR-072KL" H 14650 9350 50  0001 C CNN "PartNumber"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14580 9350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-072KL/2827565" H 14650 9350 50  0001 C CNN
+F 4 "RC0402FR-072KL" H 14650 9350 50  0001 C CNN "PartNumber"
 F 5 "2 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 14650 9350 50  0001 C CNN "Description"
 	1    14650 9350
 	0    -1   -1   0   
@@ -1032,11 +1032,11 @@ U 1 1 60C40149
 P 14350 6600
 F 0 "C50" V 14600 6600 50  0000 L CNN
 F 1 "0.1uF" V 14500 6500 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 14388 6450 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 14350 6600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 14388 6450 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 14350 6600 50  0001 C CNN
 F 4 "25V" H 14465 6509 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 14350 6600 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 14350 6600 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 14350 6600 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 14350 6600 50  0001 C CNN "Description"
 	1    14350 6600
 	0    -1   -1   0   
 $EndComp
@@ -1188,11 +1188,11 @@ U 1 1 606A821E
 P 10450 9300
 F 0 "C35" V 10700 9300 50  0000 L CNN
 F 1 "0.1uF" V 10600 9200 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 10488 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 10450 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 10488 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 10450 9300 50  0001 C CNN
 F 4 "25V" H 10565 9209 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 10450 9300 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 10450 9300 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 10450 9300 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 10450 9300 50  0001 C CNN "Description"
 	1    10450 9300
 	0    -1   -1   0   
 $EndComp
@@ -1219,11 +1219,11 @@ U 1 1 607105B9
 P 9200 11300
 F 0 "C26" V 9350 11150 50  0000 L CNN
 F 1 "10uF" V 9250 11050 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9238 11150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 9200 11300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9238 11150 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 9200 11300 50  0001 C CNN
 F 4 "25V" H 9315 11209 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 9200 11300 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 9200 11300 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 9200 11300 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 9200 11300 50  0001 C CNN "Description"
 	1    9200 11300
 	0    -1   -1   0   
 $EndComp
@@ -1240,11 +1240,11 @@ U 1 1 60613A54
 P 9750 9300
 F 0 "C31" V 10000 9300 50  0000 L CNN
 F 1 "0.1uF" V 9900 9200 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9788 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 9750 9300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9788 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 9750 9300 50  0001 C CNN
 F 4 "25V" H 9865 9209 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 9750 9300 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 9750 9300 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 9750 9300 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 9750 9300 50  0001 C CNN "Description"
 	1    9750 9300
 	0    1    -1   0   
 $EndComp
@@ -1342,59 +1342,31 @@ F 3 "" H 8750 11200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C13
-U 1 1 5FF367C0
-P 6700 11300
-F 0 "C13" H 6750 11400 50  0000 L CNN
-F 1 "10uF" H 6750 11200 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6738 11150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 6700 11300 50  0001 C CNN
-F 4 "25V" H 6815 11209 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 6700 11300 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 6700 11300 50  0001 C CNN "Description"
-	1    6700 11300
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:C C18
-U 1 1 5FF3AC03
-P 7300 11300
-F 0 "C18" H 7350 11400 50  0000 L CNN
-F 1 "10nF" H 7350 11200 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7338 11150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 7300 11300 50  0001 C CNN
-F 4 "100V" H 7415 11209 50  0001 L CNN "Voltage"
-F 5 "CC1206JKNPO0BN103" H 7300 11300 50  0001 C CNN "PartNumber"
-F 6 "10000pF ±5% 100V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)" H 7300 11300 50  0001 C CNN "Description"
-	1    7300 11300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C16
-U 1 1 5FF3D7DE
-P 7000 11300
-F 0 "C16" H 7050 11400 50  0000 L CNN
-F 1 "10uF" H 7050 11200 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7038 11150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 7000 11300 50  0001 C CNN
-F 4 "25V" H 7115 11209 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 7000 11300 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 7000 11300 50  0001 C CNN "Description"
-	1    7000 11300
+U 1 1 5FF367C0
+P 7350 11300
+F 0 "C18" H 7400 11400 50  0000 L CNN
+F 1 "10uF" H 7400 11200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 7388 11150 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 7350 11300 50  0001 C CNN
+F 4 "25V" H 7465 11209 50  0001 L CNN "Voltage"
+F 5 "CC0805MKX7R7BB106" H 7350 11300 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 7350 11300 50  0001 C CNN "Description"
+	1    7350 11300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C C19
-U 1 1 60070865
-P 7600 11300
-F 0 "C19" H 7600 11400 50  0000 L CNN
-F 1 "10nF" H 7650 11200 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7638 11150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 7600 11300 50  0001 C CNN
-F 4 "100V" H 7715 11209 50  0001 L CNN "Voltage"
-F 5 "CC1206JKNPO0BN103" H 7600 11300 50  0001 C CNN "PartNumber"
-F 6 "10000pF ±5% 100V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)" H 7600 11300 50  0001 C CNN "Description"
-	1    7600 11300
+U 1 1 5FF3D7DE
+P 7650 11300
+F 0 "C19" H 7700 11400 50  0000 L CNN
+F 1 "10uF" H 7700 11200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 7688 11150 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 7650 11300 50  0001 C CNN
+F 4 "25V" H 7765 11209 50  0001 L CNN "Voltage"
+F 5 "CC0805MKX7R7BB106" H 7650 11300 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 7650 11300 50  0001 C CNN "Description"
+	1    7650 11300
 	1    0    0    -1  
 $EndComp
 Text GLabel 7650 11800 0    50   Input ~ 0
@@ -1485,10 +1457,10 @@ U 1 1 609C36E5
 P 12900 6800
 F 0 "R43" V 13100 6750 50  0000 L CNN
 F 1 "470R" V 13000 6700 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12830 6800 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 12900 6800 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 12900 6800 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 12900 6800 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 12830 6800 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 12900 6800 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 12900 6800 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12900 6800 50  0001 C CNN "Description"
 	1    12900 6800
 	0    1    -1   0   
 $EndComp
@@ -1520,10 +1492,10 @@ U 1 1 609C3701
 P 12700 7050
 F 0 "R40" H 12770 7096 50  0000 L CNN
 F 1 "10K" H 12770 7005 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12630 7050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 12700 7050 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 12700 7050 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 12700 7050 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 12630 7050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 12700 7050 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 12700 7050 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12700 7050 50  0001 C CNN "Description"
 	1    12700 7050
 	-1   0    0    -1  
 $EndComp
@@ -1547,11 +1519,11 @@ L Transistor_BJT:BC847 Q7
 U 1 1 609C3719
 P 12450 6800
 F 0 "Q7" H 12600 6600 50  0000 L CNN
-F 1 "BC847C" H 12600 6500 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 12650 6725 50  0001 L CIN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847C215/763240" H 12450 6800 50  0001 L CNN
-F 4 "BC847C,215" H 12450 6800 50  0001 C CNN "PartNumber"
-F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 250mW Surface Mount SOT-23-3" H 12450 6800 50  0001 C CNN "Description"
+F 1 "BC847CW,115" H 12600 6500 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 12650 6725 50  0001 L CIN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847CW115/1232292" H 12450 6800 50  0001 L CNN
+F 4 "BC847CW,115" H 12450 6800 50  0001 C CNN "PartNumber"
+F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 200mW Surface Mount SOT-323" H 12450 6800 50  0001 C CNN "Description"
 	1    12450 6800
 	-1   0    0    -1  
 $EndComp
@@ -1561,11 +1533,11 @@ U 1 1 609C3742
 P 11650 6400
 F 0 "C37" H 11765 6446 50  0000 L CNN
 F 1 "0.1uF" H 11765 6355 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 11688 6250 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 11650 6400 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11688 6250 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 11650 6400 50  0001 C CNN
 F 4 "25V" H 11765 6309 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 11650 6400 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 11650 6400 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 11650 6400 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 11650 6400 50  0001 C CNN "Description"
 	1    11650 6400
 	1    0    0    -1  
 $EndComp
@@ -1625,10 +1597,10 @@ U 1 1 60C43BA9
 P 12050 6350
 F 0 "R37" H 12120 6396 50  0000 L CNN
 F 1 "10K" H 12120 6305 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 11980 6350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 12050 6350 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 12050 6350 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 12050 6350 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11980 6350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 12050 6350 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 12050 6350 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12050 6350 50  0001 C CNN "Description"
 	1    12050 6350
 	1    0    0    -1  
 $EndComp
@@ -1646,10 +1618,10 @@ U 1 1 60CD4E13
 P 5750 12000
 F 0 "R8" V 5850 11950 50  0000 L CNN
 F 1 "470R" V 5950 11900 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5680 12000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 5750 12000 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 5750 12000 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5750 12000 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5680 12000 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 5750 12000 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 5750 12000 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5750 12000 50  0001 C CNN "Description"
 	1    5750 12000
 	0    -1   1    0   
 $EndComp
@@ -1677,10 +1649,10 @@ U 1 1 60CD4E2F
 P 5950 12250
 F 0 "R11" H 6020 12296 50  0000 L CNN
 F 1 "10K" H 6020 12205 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5880 12250 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 5950 12250 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 5950 12250 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 5950 12250 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5880 12250 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 5950 12250 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 5950 12250 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5950 12250 50  0001 C CNN "Description"
 	1    5950 12250
 	1    0    0    -1  
 $EndComp
@@ -1702,11 +1674,11 @@ L Transistor_BJT:BC847 Q1
 U 1 1 60CD4E47
 P 6200 12000
 F 0 "Q1" H 6450 12250 50  0000 L CNN
-F 1 "BC847C" H 6400 12150 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 6400 11925 50  0001 L CIN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847C215/763240" H 6200 12000 50  0001 L CNN
-F 4 "BC847C,215" H 6200 12000 50  0001 C CNN "PartNumber"
-F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 250mW Surface Mount SOT-23-3" H 6200 12000 50  0001 C CNN "Description"
+F 1 "BC847CW,115" H 6400 12150 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6400 11925 50  0001 L CIN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847CW115/1232292" H 6200 12000 50  0001 L CNN
+F 4 "BC847CW,115" H 6200 12000 50  0001 C CNN "PartNumber"
+F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 200mW Surface Mount SOT-323" H 6200 12000 50  0001 C CNN "Description"
 	1    6200 12000
 	1    0    0    -1  
 $EndComp
@@ -1716,11 +1688,11 @@ U 1 1 60CD4E55
 P 5600 11200
 F 0 "C3" H 5700 11150 50  0000 L CNN
 F 1 "0.1uF" H 5650 11050 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5638 11050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 5600 11200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5638 11050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 5600 11200 50  0001 C CNN
 F 4 "25V" H 5715 11109 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 5600 11200 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 5600 11200 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 5600 11200 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 5600 11200 50  0001 C CNN "Description"
 	1    5600 11200
 	1    0    0    -1  
 $EndComp
@@ -1756,10 +1728,10 @@ U 1 1 60CD4E89
 P 5900 11150
 F 0 "R9" H 5970 11196 50  0000 L CNN
 F 1 "10K" H 5970 11105 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5830 11150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 5900 11150 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 5900 11150 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 5900 11150 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5830 11150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 5900 11150 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 5900 11150 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5900 11150 50  0001 C CNN "Description"
 	1    5900 11150
 	1    0    0    -1  
 $EndComp
@@ -1797,11 +1769,11 @@ L Transistor_BJT:BC847 Q5
 U 1 1 6116577D
 P 10250 13400
 F 0 "Q5" H 10500 13250 50  0000 L CNN
-F 1 "BC847C" H 10500 13150 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 10450 13325 50  0001 L CIN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847C215/763240" H 10250 13400 50  0001 L CNN
-F 4 "BC847C,215" H 10250 13400 50  0001 C CNN "PartNumber"
-F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 250mW Surface Mount SOT-23-3" H 10250 13400 50  0001 C CNN "Description"
+F 1 "BC847CW,115" H 10500 13150 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 10450 13325 50  0001 L CIN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847CW115/1232292" H 10250 13400 50  0001 L CNN
+F 4 "BC847CW,115" H 10250 13400 50  0001 C CNN "PartNumber"
+F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 200mW Surface Mount SOT-323" H 10250 13400 50  0001 C CNN "Description"
 	1    10250 13400
 	1    0    0    -1  
 $EndComp
@@ -1824,10 +1796,10 @@ U 1 1 6116578C
 P 10000 13650
 F 0 "R30" H 10070 13696 50  0000 L CNN
 F 1 "10K" H 10070 13605 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9930 13650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 10000 13650 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 10000 13650 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 10000 13650 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9930 13650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 10000 13650 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 10000 13650 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 10000 13650 50  0001 C CNN "Description"
 	1    10000 13650
 	1    0    0    -1  
 $EndComp
@@ -1853,35 +1825,13 @@ U 1 1 6116579E
 P 9800 13400
 F 0 "R28" V 9900 13350 50  0000 L CNN
 F 1 "470R" V 10000 13300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9730 13400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 9800 13400 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 9800 13400 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 9800 13400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9730 13400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 9800 13400 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 9800 13400 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9800 13400 50  0001 C CNN "Description"
 	1    9800 13400
 	0    -1   1    0   
 $EndComp
-$Comp
-L Device:R R34
-U 1 1 61356785
-P 10350 12850
-F 0 "R34" H 10420 12896 50  0000 L CNN
-F 1 "10K" H 10420 12805 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10280 12850 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 10350 12850 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 10350 12850 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 10350 12850 50  0001 C CNN "Description"
-	1    10350 12850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10350 13000 10350 13100
-Wire Wire Line
-	10350 12700 10350 12600
-Wire Wire Line
-	10350 13100 10450 13100
-Connection ~ 10350 13100
-Wire Wire Line
-	10350 13100 10350 13200
 Wire Wire Line
 	10000 13800 10000 14100
 Wire Wire Line
@@ -1923,11 +1873,11 @@ L Transistor_BJT:BC847 Q4
 U 1 1 608E0C00
 P 7750 13600
 F 0 "Q4" H 8000 13450 50  0000 L CNN
-F 1 "BC847C" H 8000 13350 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 7950 13525 50  0001 L CIN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847C215/763240" H 7750 13600 50  0001 L CNN
-F 4 "BC847C,215" H 7750 13600 50  0001 C CNN "PartNumber"
-F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 250mW Surface Mount SOT-23-3" H 7750 13600 50  0001 C CNN "Description"
+F 1 "BC847CW,115" H 8000 13350 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 7950 13525 50  0001 L CIN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847CW115/1232292" H 7750 13600 50  0001 L CNN
+F 4 "BC847CW,115" H 7750 13600 50  0001 C CNN "PartNumber"
+F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 200mW Surface Mount SOT-323" H 7750 13600 50  0001 C CNN "Description"
 	1    7750 13600
 	1    0    0    -1  
 $EndComp
@@ -1952,10 +1902,10 @@ U 1 1 608E0C41
 P 7500 13850
 F 0 "R19" H 7570 13896 50  0000 L CNN
 F 1 "10K" H 7570 13805 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7430 13850 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 7500 13850 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 7500 13850 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 7500 13850 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 7430 13850 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 7500 13850 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 7500 13850 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 7500 13850 50  0001 C CNN "Description"
 	1    7500 13850
 	1    0    0    -1  
 $EndComp
@@ -1987,10 +1937,10 @@ U 1 1 608E0C5D
 P 7300 13600
 F 0 "R17" V 7400 13550 50  0000 L CNN
 F 1 "470R" V 7500 13500 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7230 13600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 7300 13600 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 7300 13600 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 7300 13600 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 7230 13600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 7300 13600 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 7300 13600 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 7300 13600 50  0001 C CNN "Description"
 	1    7300 13600
 	0    -1   1    0   
 $EndComp
@@ -2010,10 +1960,10 @@ U 1 1 60A74FA9
 P 5900 13600
 F 0 "R10" V 6000 13550 50  0000 L CNN
 F 1 "470R" V 6100 13500 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5830 13600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 5900 13600 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 5900 13600 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5900 13600 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5830 13600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 5900 13600 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 5900 13600 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5900 13600 50  0001 C CNN "Description"
 	1    5900 13600
 	0    -1   1    0   
 $EndComp
@@ -2041,10 +1991,10 @@ U 1 1 60A74F8F
 P 6100 13850
 F 0 "R15" H 6170 13896 50  0000 L CNN
 F 1 "10K" H 6170 13805 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6030 13850 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 6100 13850 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 6100 13850 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 6100 13850 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 6030 13850 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 6100 13850 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 6100 13850 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 6100 13850 50  0001 C CNN "Description"
 	1    6100 13850
 	1    0    0    -1  
 $EndComp
@@ -2066,11 +2016,11 @@ L Transistor_BJT:BC847 Q3
 U 1 1 60A74F50
 P 6350 13600
 F 0 "Q3" H 6600 13450 50  0000 L CNN
-F 1 "BC847C" H 6600 13350 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 6550 13525 50  0001 L CIN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847C215/763240" H 6350 13600 50  0001 L CNN
-F 4 "BC847C,215" H 6350 13600 50  0001 C CNN "PartNumber"
-F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 250mW Surface Mount SOT-23-3" H 6350 13600 50  0001 C CNN "Description"
+F 1 "BC847CW,115" H 6600 13350 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 6550 13525 50  0001 L CIN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC847CW115/1232292" H 6350 13600 50  0001 L CNN
+F 4 "BC847CW,115" H 6350 13600 50  0001 C CNN "PartNumber"
+F 5 "Bipolar (BJT) Transistor NPN 45V 100mA 100MHz 200mW Surface Mount SOT-323" H 6350 13600 50  0001 C CNN "Description"
 	1    6350 13600
 	1    0    0    -1  
 $EndComp
@@ -2103,59 +2053,33 @@ Wire Wire Line
 Wire Wire Line
 	5900 11350 6300 11350
 $Comp
-L power:GND #PWR024
-U 1 1 61C1109D
-P 6700 11500
-F 0 "#PWR024" H 6700 11250 50  0001 C CNN
-F 1 "GND" H 6700 11350 50  0000 C CNN
-F 2 "" H 6700 11500 50  0001 C CNN
-F 3 "" H 6700 11500 50  0001 C CNN
-	1    6700 11500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR029
-U 1 1 61C117C7
-P 7000 11500
-F 0 "#PWR029" H 7000 11250 50  0001 C CNN
-F 1 "GND" H 7000 11350 50  0000 C CNN
-F 2 "" H 7000 11500 50  0001 C CNN
-F 3 "" H 7000 11500 50  0001 C CNN
-	1    7000 11500
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR032
-U 1 1 61C11AC3
-P 7300 11500
-F 0 "#PWR032" H 7300 11250 50  0001 C CNN
-F 1 "GND" H 7300 11350 50  0000 C CNN
-F 2 "" H 7300 11500 50  0001 C CNN
-F 3 "" H 7300 11500 50  0001 C CNN
-	1    7300 11500
+U 1 1 61C1109D
+P 7350 11500
+F 0 "#PWR032" H 7350 11250 50  0001 C CNN
+F 1 "GND" H 7350 11350 50  0000 C CNN
+F 2 "" H 7350 11500 50  0001 C CNN
+F 3 "" H 7350 11500 50  0001 C CNN
+	1    7350 11500
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR036
-U 1 1 61C11E01
-P 7600 11500
-F 0 "#PWR036" H 7600 11250 50  0001 C CNN
-F 1 "GND" H 7600 11350 50  0000 C CNN
-F 2 "" H 7600 11500 50  0001 C CNN
-F 3 "" H 7600 11500 50  0001 C CNN
-	1    7600 11500
+U 1 1 61C117C7
+P 7650 11500
+F 0 "#PWR036" H 7650 11250 50  0001 C CNN
+F 1 "GND" H 7650 11350 50  0000 C CNN
+F 2 "" H 7650 11500 50  0001 C CNN
+F 3 "" H 7650 11500 50  0001 C CNN
+	1    7650 11500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6700 11500 6700 11450
+	7350 11500 7350 11450
 Wire Wire Line
-	7000 11500 7000 11450
+	7650 11500 7650 11450
 Wire Wire Line
-	7300 11500 7300 11450
-Wire Wire Line
-	6500 10950 6700 10950
-Wire Wire Line
-	6700 11150 6700 10950
+	7350 11150 7350 10950
 Wire Wire Line
 	8550 10950 8550 11200
 Connection ~ 8550 11200
@@ -2163,10 +2087,6 @@ Wire Notes Line
 	11250 14350 11250 8500
 Text Notes 7250 8400 0    100  ~ 0
 NB-IoT modem BC66-NA
-Text GLabel 10450 13100 2    50   Input ~ 0
-NET_STATUS
-Text GLabel 17800 10400 2    50   Input ~ 0
-NET_STATUS
 $Comp
 L power:+3V3 #PWR0140
 U 1 1 5FC12BB8
@@ -2208,11 +2128,11 @@ U 1 1 60218BC4
 P 18250 11550
 F 0 "C62" H 18365 11596 50  0000 L CNN
 F 1 "0.1uF" H 18365 11505 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 18288 11400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 18250 11550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 18288 11400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 18250 11550 50  0001 C CNN
 F 4 "25V" H 18365 11459 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 18250 11550 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 18250 11550 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 18250 11550 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 18250 11550 50  0001 C CNN "Description"
 	1    18250 11550
 	-1   0    0    -1  
 $EndComp
@@ -2262,10 +2182,10 @@ U 1 1 62420B23
 P 14550 10500
 F 0 "R46" V 14500 10600 50  0000 L CNN
 F 1 "22R" V 14550 10425 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14480 10500 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 14550 10500 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 14550 10500 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 14550 10500 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14480 10500 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 14550 10500 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 14550 10500 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14550 10500 50  0001 C CNN "Description"
 	1    14550 10500
 	0    1    1    0   
 $EndComp
@@ -2277,10 +2197,10 @@ U 1 1 624FD099
 P 14550 10600
 F 0 "R47" V 14500 10700 50  0000 L CNN
 F 1 "22R" V 14550 10525 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14480 10600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 14550 10600 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 14550 10600 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 14550 10600 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14480 10600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 14550 10600 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 14550 10600 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14550 10600 50  0001 C CNN "Description"
 	1    14550 10600
 	0    1    1    0   
 $EndComp
@@ -2292,10 +2212,10 @@ U 1 1 625438D8
 P 14550 10700
 F 0 "R48" V 14500 10800 50  0000 L CNN
 F 1 "22R" V 14550 10625 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14480 10700 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 14550 10700 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 14550 10700 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 14550 10700 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14480 10700 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 14550 10700 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 14550 10700 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14550 10700 50  0001 C CNN "Description"
 	1    14550 10700
 	0    1    1    0   
 $EndComp
@@ -2307,10 +2227,10 @@ U 1 1 6258A6F6
 P 14550 10800
 F 0 "R49" V 14500 10900 50  0000 L CNN
 F 1 "22R" V 14550 10725 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14480 10800 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 14550 10800 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 14550 10800 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 14550 10800 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14480 10800 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 14550 10800 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 14550 10800 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14550 10800 50  0001 C CNN "Description"
 	1    14550 10800
 	0    1    1    0   
 $EndComp
@@ -2383,10 +2303,10 @@ U 1 1 62F33608
 P 10150 7650
 F 0 "R31" H 10220 7696 50  0000 L CNN
 F 1 "10K" H 10220 7605 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10080 7650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 10150 7650 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 10150 7650 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 10150 7650 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10080 7650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 10150 7650 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 10150 7650 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 10150 7650 50  0001 C CNN "Description"
 	1    10150 7650
 	1    0    0    -1  
 $EndComp
@@ -2407,11 +2327,11 @@ Text Notes 9800 1750 0    100  ~ 0
 Power supply controller TPS63900 + MIC29302WU
 Text Notes 9500 8800 0    50   ~ 0
 3V3<->1V8 signal levels translator
-Text GLabel 17800 10600 2    50   Input ~ 0
-BC66_PWR
-Text GLabel 17800 10700 2    50   Input ~ 0
-BC66_ON_OFF
 Text GLabel 17800 10500 2    50   Input ~ 0
+BC66_PWR
+Text GLabel 17800 10600 2    50   Input ~ 0
+BC66_ON_OFF
+Text GLabel 17800 10400 2    50   Input ~ 0
 BC66_RST
 Text GLabel 9600 9800 0    50   Input ~ 0
 MCU_RI
@@ -2425,9 +2345,9 @@ U 1 1 5FECBDBE
 P 17950 11400
 F 0 "R55" V 18000 11525 50  0000 L CNN
 F 1 "4.7K" V 17940 11310 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 17880 11400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-074K7L/728327" H 17950 11400 50  0001 C CNN
-F 4 "RC0805JR-074K7L" H 17950 11400 50  0001 C CNN "PartNumber"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 17880 11400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-074K7L/726477" H 17950 11400 50  0001 C CNN
+F 4 "RC0402JR-074K7L" H 17950 11400 50  0001 C CNN "PartNumber"
 F 5 "4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 17950 11400 50  0001 C CNN "Description"
 	1    17950 11400
 	0    -1   -1   0   
@@ -2438,9 +2358,9 @@ U 1 1 631F657F
 P 17950 11300
 F 0 "R54" V 18000 11425 50  0000 L CNN
 F 1 "4.7K" V 17940 11210 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 17880 11300 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-074K7L/728327" H 17950 11300 50  0001 C CNN
-F 4 "RC0805JR-074K7L" H 17950 11300 50  0001 C CNN "PartNumber"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 17880 11300 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-074K7L/726477" H 17950 11300 50  0001 C CNN
+F 4 "RC0402JR-074K7L" H 17950 11300 50  0001 C CNN "PartNumber"
 F 5 "4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 17950 11300 50  0001 C CNN "Description"
 	1    17950 11300
 	0    -1   -1   0   
@@ -2469,8 +2389,6 @@ Wire Wire Line
 	16800 10900 17300 10900
 Wire Wire Line
 	16800 11000 17400 11000
-Wire Wire Line
-	16800 11100 17500 11100
 Wire Notes Line
 	17200 11200 17600 11200
 Wire Notes Line
@@ -2486,8 +2404,6 @@ Wire Wire Line
 Wire Wire Line
 	17400 11000 17400 10600
 Wire Wire Line
-	17500 11100 17500 10700
-Wire Wire Line
 	17100 10300 17800 10300
 Wire Wire Line
 	17300 10500 17800 10500
@@ -2497,14 +2413,8 @@ Wire Wire Line
 	17800 10400 17200 10400
 Wire Wire Line
 	17400 10600 17800 10600
-Wire Wire Line
-	17500 10700 17800 10700
 Wire Notes Line
-	18450 10850 17700 10850
-Wire Notes Line
-	17700 10850 17700 9950
-Wire Notes Line
-	18450 10850 18450 9950
+	18450 10750 17700 10750
 Wire Notes Line
 	17700 9950 18450 9950
 $Comp
@@ -2593,11 +2503,11 @@ U 1 1 63F1CA86
 P 6450 9750
 F 0 "C10" H 6500 9650 50  0000 L CNN
 F 1 "18pF" H 6500 9550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6488 9600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6450 9750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6488 9600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6450 9750 50  0001 C CNN
 F 4 "50V" H 6565 9659 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6450 9750 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6450 9750 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6450 9750 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6450 9750 50  0001 C CNN "Description"
 	1    6450 9750
 	1    0    0    -1  
 $EndComp
@@ -2607,10 +2517,10 @@ U 1 1 63F20BF6
 P 5750 8900
 F 0 "R5" V 5700 8700 50  0000 L CNN
 F 1 "22R" V 5750 8825 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5680 8900 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5750 8900 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5750 8900 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5750 8900 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5680 8900 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5750 8900 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5750 8900 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5750 8900 50  0001 C CNN "Description"
 	1    5750 8900
 	0    -1   1    0   
 $EndComp
@@ -2620,10 +2530,10 @@ U 1 1 63F23467
 P 5750 9000
 F 0 "R6" V 5700 8800 50  0000 L CNN
 F 1 "22R" V 5750 8925 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5680 9000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5750 9000 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5750 9000 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5750 9000 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5680 9000 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5750 9000 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5750 9000 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5750 9000 50  0001 C CNN "Description"
 	1    5750 9000
 	0    -1   1    0   
 $EndComp
@@ -2633,10 +2543,10 @@ U 1 1 63F238D2
 P 5750 9300
 F 0 "R7" V 5700 9100 50  0000 L CNN
 F 1 "22R" V 5750 9225 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5680 9300 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5750 9300 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5750 9300 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5750 9300 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5680 9300 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5750 9300 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5750 9300 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5750 9300 50  0001 C CNN "Description"
 	1    5750 9300
 	0    -1   1    0   
 $EndComp
@@ -2655,11 +2565,11 @@ U 1 1 63FDF95C
 P 6700 9750
 F 0 "C12" H 6750 9650 50  0000 L CNN
 F 1 "18pF" H 6750 9550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6738 9600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6700 9750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6738 9600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6700 9750 50  0001 C CNN
 F 4 "50V" H 6815 9659 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6700 9750 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6700 9750 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6700 9750 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6700 9750 50  0001 C CNN "Description"
 	1    6700 9750
 	1    0    0    -1  
 $EndComp
@@ -2669,11 +2579,11 @@ U 1 1 63FE0183
 P 6950 9750
 F 0 "C15" H 7000 9650 50  0000 L CNN
 F 1 "18pF" H 7000 9550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6988 9600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6950 9750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6988 9600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6950 9750 50  0001 C CNN
 F 4 "50V" H 7065 9659 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6950 9750 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6950 9750 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6950 9750 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6950 9750 50  0001 C CNN "Description"
 	1    6950 9750
 	1    0    0    -1  
 $EndComp
@@ -2710,20 +2620,6 @@ F 3 "" H 6950 10200 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6950 10200 6950 10100
-$Comp
-L Device:C C17
-U 1 1 641FD1AD
-P 7200 9750
-F 0 "C17" H 7250 9650 50  0000 L CNN
-F 1 "10nF" H 7250 9550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7238 9600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 7200 9750 50  0001 C CNN
-F 4 "100V" H 7315 9659 50  0001 L CNN "Voltage"
-F 5 "CC1206JKNPO0BN103" H 7200 9750 50  0001 C CNN "PartNumber"
-F 6 "10000pF ±5% 100V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)" H 7200 9750 50  0001 C CNN "Description"
-	1    7200 9750
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7200 9900 7200 10100
 Connection ~ 6950 10100
@@ -2737,10 +2633,10 @@ U 1 1 641FC734
 P 7500 9800
 F 0 "R18" H 7600 9750 50  0000 L CNN
 F 1 "10K" H 7550 9650 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7430 9800 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 7500 9800 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 7500 9800 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 7500 9800 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 7430 9800 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 7500 9800 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 7500 9800 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 7500 9800 50  0001 C CNN "Description"
 	1    7500 9800
 	1    0    0    -1  
 $EndComp
@@ -2756,11 +2652,11 @@ U 1 1 64480807
 P 8750 9100
 F 0 "C21" H 8865 9146 50  0000 L CNN
 F 1 "1uF" H 8865 9055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 8788 8950 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KKX7R8BB105/2833621" H 8750 9100 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 8788 8950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R7BB105/2833611" H 8750 9100 50  0001 C CNN
 F 4 "25V" H 8865 9009 50  0001 L CNN "Voltage"
-F 5 "CC0805KKX7R8BB105" H 8750 9100 50  0001 C CNN "PartNumber"
-F 6 "1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 8750 9100 50  0001 C CNN "Description"
+F 5 "CC0603KRX7R7BB105" H 8750 9100 50  0001 C CNN "PartNumber"
+F 6 "1µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)" H 8750 9100 50  0001 C CNN "Description"
 	1    8750 9100
 	1    0    0    -1  
 $EndComp
@@ -2860,7 +2756,7 @@ U 1 1 64A2BB44
 P 9950 11650
 F 0 "C34" H 10065 11696 50  0000 L CNN
 F 1 "DNP" H 10065 11605 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 9988 11500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9988 11500 50  0001 C CNN
 F 3 "~" H 9950 11650 50  0001 C CNN
 	1    9950 11650
 	1    0    0    -1  
@@ -2871,7 +2767,7 @@ U 1 1 64A29976
 P 10450 11650
 F 0 "C36" H 10565 11696 50  0000 L CNN
 F 1 "DNP" H 10565 11605 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 10488 11500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 10488 11500 50  0001 C CNN
 F 3 "~" H 10450 11650 50  0001 C CNN
 	1    10450 11650
 	1    0    0    -1  
@@ -2884,7 +2780,7 @@ U 1 1 649ED4B4
 P 10200 11400
 F 0 "R32" V 9993 11400 50  0000 C CNN
 F 1 "0R" V 10084 11400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 10130 11400 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10130 11400 50  0001 C CNN
 F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RL/726406" H 10200 11400 50  0001 C CNN
 F 4 "RC0402JR-070RL" V 10200 11400 50  0001 C CNN "PartNumber"
 F 5 "0 Ohms  0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" V 10200 11400 50  0001 C CNN "Description"
@@ -2958,10 +2854,10 @@ U 1 1 64E776B2
 P 12800 10600
 F 0 "R41" H 12870 10646 50  0000 L CNN
 F 1 "3M" H 12870 10555 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12730 10600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-073ML/5919040" H 12800 10600 50  0001 C CNN
-F 4 "RC0805FR-073ML" H 12800 10600 50  0001 C CNN "PartNumber"
-F 5 "3 MOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 12800 10600 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 12730 10600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-073ML/5917669" H 12800 10600 50  0001 C CNN
+F 4 "RC0402FR-073ML" H 12800 10600 50  0001 C CNN "PartNumber"
+F 5 "3 MOhms ±1% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric) Thick Film" H 12800 10600 50  0001 C CNN "Description"
 	1    12800 10600
 	1    0    0    -1  
 $EndComp
@@ -2971,10 +2867,10 @@ U 1 1 64E78707
 P 12800 11200
 F 0 "R42" H 12870 11246 50  0000 L CNN
 F 1 "1M" H 12870 11155 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12730 11200 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-071ML/727445?s=N4IgTCBcDaIEoGEAMAOJBWAYnAtEg7AIwCyAMiALoC%2BQA" H 12800 11200 50  0001 C CNN
-F 4 "RC0805FR-071ML" H 12800 11200 50  0001 C CNN "PartNumber"
-F 5 "1 MOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 12800 11200 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 12730 11200 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-071ML/726515" H 12800 11200 50  0001 C CNN
+F 4 "RC0402FR-071ML" H 12800 11200 50  0001 C CNN "PartNumber"
+F 5 "1 MOhms ±1% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12800 11200 50  0001 C CNN "Description"
 	1    12800 11200
 	1    0    0    -1  
 $EndComp
@@ -2984,11 +2880,11 @@ U 1 1 64E793CF
 P 13100 11200
 F 0 "C44" H 13215 11246 50  0000 L CNN
 F 1 "10uF" H 13215 11155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 13138 11050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 13100 11200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 13138 11050 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 13100 11200 50  0001 C CNN
 F 4 "25V" H 13215 11109 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 13100 11200 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 13100 11200 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 13100 11200 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 13100 11200 50  0001 C CNN "Description"
 	1    13100 11200
 	1    0    0    -1  
 $EndComp
@@ -3124,11 +3020,11 @@ U 1 1 65B9D000
 P 9450 7600
 F 0 "C28" H 9500 7500 50  0000 L CNN
 F 1 "0.1uF" H 9500 7400 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9488 7450 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 9450 7600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9488 7450 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 9450 7600 50  0001 C CNN
 F 4 "25V" H 9565 7509 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 9450 7600 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 9450 7600 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 9450 7600 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 9450 7600 50  0001 C CNN "Description"
 	1    9450 7600
 	1    0    0    -1  
 $EndComp
@@ -3138,10 +3034,10 @@ U 1 1 6596F18D
 P 9200 7400
 F 0 "R26" V 9300 7350 50  0000 L CNN
 F 1 "22R" V 9400 7300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9130 7400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 9200 7400 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 9200 7400 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 9200 7400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9130 7400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 9200 7400 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 9200 7400 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9200 7400 50  0001 C CNN "Description"
 	1    9200 7400
 	0    1    1    0   
 $EndComp
@@ -3154,20 +3050,6 @@ F 1 "GND" H 9450 7700 50  0000 C CNN
 F 2 "" H 9450 7850 50  0001 C CNN
 F 3 "" H 9450 7850 50  0001 C CNN
 	1    9450 7850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C32
-U 1 1 6548C5FF
-P 9800 7600
-F 0 "C32" H 9850 7500 50  0000 L CNN
-F 1 "10nF" H 9850 7400 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9838 7450 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 9800 7600 50  0001 C CNN
-F 4 "100V" H 9915 7509 50  0001 L CNN "Voltage"
-F 5 "CC1206JKNPO0BN103" H 9800 7600 50  0001 C CNN "PartNumber"
-F 6 "10000pF ±5% 100V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)" H 9800 7600 50  0001 C CNN "Description"
-	1    9800 7600
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -3191,30 +3073,17 @@ U 1 1 6559D8A1
 P 9200 7300
 F 0 "R25" V 9000 7250 50  0000 L CNN
 F 1 "470R" V 9100 7200 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9130 7300 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 9200 7300 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 9200 7300 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 9200 7300 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9130 7300 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 9200 7300 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 9200 7300 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9200 7300 50  0001 C CNN "Description"
 	1    9200 7300
 	0    -1   1    0   
-$EndComp
-$Comp
-L power:GND #PWR063
-U 1 1 65D87329
-P 9800 7850
-F 0 "#PWR063" H 9800 7600 50  0001 C CNN
-F 1 "GND" H 9800 7700 50  0000 C CNN
-F 2 "" H 9800 7850 50  0001 C CNN
-F 3 "" H 9800 7850 50  0001 C CNN
-	1    9800 7850
-	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	9350 7400 9800 7400
 Wire Wire Line
 	9450 7850 9450 7750
-Wire Wire Line
-	9800 7850 9800 7750
 Wire Wire Line
 	9450 7300 9450 7450
 Connection ~ 9450 7300
@@ -3249,11 +3118,11 @@ U 1 1 668E4B4A
 P 9700 6250
 F 0 "C30" H 9750 6150 50  0000 L CNN
 F 1 "18pF" H 9750 6050 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9738 6100 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 9700 6250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9738 6100 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 9700 6250 50  0001 C CNN
 F 4 "50V" H 9815 6159 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 9700 6250 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 9700 6250 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 9700 6250 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 9700 6250 50  0001 C CNN "Description"
 	1    9700 6250
 	1    0    0    -1  
 $EndComp
@@ -3263,11 +3132,11 @@ U 1 1 668E4B57
 P 9950 6250
 F 0 "C33" H 10000 6150 50  0000 L CNN
 F 1 "18pF" H 10000 6050 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9988 6100 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 9950 6250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9988 6100 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 9950 6250 50  0001 C CNN
 F 4 "50V" H 10065 6159 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 9950 6250 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 9950 6250 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 9950 6250 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 9950 6250 50  0001 C CNN "Description"
 	1    9950 6250
 	1    0    0    -1  
 $EndComp
@@ -3291,10 +3160,10 @@ U 1 1 668E4B6C
 P 9200 5750
 F 0 "R23" V 9150 5950 50  0000 L CNN
 F 1 "22R" V 9200 5675 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9130 5750 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 9200 5750 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 9200 5750 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 9200 5750 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9130 5750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 9200 5750 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 9200 5750 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9200 5750 50  0001 C CNN "Description"
 	1    9200 5750
 	0    1    1    0   
 $EndComp
@@ -3317,10 +3186,10 @@ U 1 1 668E4B84
 P 9200 5950
 F 0 "R24" V 9250 6150 50  0000 L CNN
 F 1 "22R" V 9200 5875 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9130 5950 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 9200 5950 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 9200 5950 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 9200 5950 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9130 5950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 9200 5950 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 9200 5950 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9200 5950 50  0001 C CNN "Description"
 	1    9200 5950
 	0    1    1    0   
 $EndComp
@@ -3336,11 +3205,11 @@ U 1 1 668E4B94
 P 9050 6250
 F 0 "C24" H 9100 6150 50  0000 L CNN
 F 1 "0.1uF" H 9100 6050 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9088 6100 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 9050 6250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9088 6100 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 9050 6250 50  0001 C CNN
 F 4 "25V" H 9165 6159 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 9050 6250 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 9050 6250 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 9050 6250 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 9050 6250 50  0001 C CNN "Description"
 	1    9050 6250
 	-1   0    0    -1  
 $EndComp
@@ -3416,11 +3285,11 @@ L Diode:SM6T7V5A D12
 U 1 1 5FFEF025
 P 10200 6200
 F 0 "D12" V 10350 6300 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 10550 6850 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 10200 6000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 10150 6200 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 10200 6200 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 10200 6200 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 10550 6850 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 10200 6000 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 10150 6200 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 10200 6200 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 10200 6200 50  0001 C CNN "Description"
 	1    10200 6200
 	0    1    1    0   
 $EndComp
@@ -3436,15 +3305,15 @@ F 3 "" H 10200 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:SM6T7V5A D14
+L Diode:SM6T7V5A D15
 U 1 1 600EBF43
 P 10400 6200
-F 0 "D14" V 10550 6300 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 10650 6650 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 10400 6000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 10350 6200 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 10400 6200 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 10400 6200 50  0001 C CNN "Description"
+F 0 "D15" V 10550 6300 50  0000 C CNN
+F 1 "PESD5V0L1UB,115" V 10650 6650 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 10400 6000 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 10350 6200 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 10400 6200 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 10400 6200 50  0001 C CNN "Description"
 	1    10400 6200
 	0    1    1    0   
 $EndComp
@@ -3473,11 +3342,11 @@ U 1 1 603E4921
 P 6050 6200
 F 0 "C6" H 6100 6100 50  0000 L CNN
 F 1 "18pF" H 6100 6000 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6088 6050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6050 6200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6088 6050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6050 6200 50  0001 C CNN
 F 4 "50V" H 6165 6109 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6050 6200 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6050 6200 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6050 6200 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6050 6200 50  0001 C CNN "Description"
 	1    6050 6200
 	1    0    0    -1  
 $EndComp
@@ -3487,11 +3356,11 @@ U 1 1 603E492E
 P 6300 6200
 F 0 "C8" H 6350 6100 50  0000 L CNN
 F 1 "18pF" H 6350 6000 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6338 6050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6300 6200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6338 6050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6300 6200 50  0001 C CNN
 F 4 "50V" H 6415 6109 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6300 6200 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6300 6200 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6300 6200 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6300 6200 50  0001 C CNN "Description"
 	1    6300 6200
 	1    0    0    -1  
 $EndComp
@@ -3501,10 +3370,10 @@ U 1 1 603E493A
 P 5550 5700
 F 0 "R3" V 5500 5500 50  0000 L CNN
 F 1 "22R" V 5550 5625 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5480 5700 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5550 5700 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5550 5700 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5550 5700 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5480 5700 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5550 5700 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5550 5700 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5550 5700 50  0001 C CNN "Description"
 	1    5550 5700
 	0    1    1    0   
 $EndComp
@@ -3529,10 +3398,10 @@ U 1 1 603E4952
 P 5550 5900
 F 0 "R4" V 5500 5700 50  0000 L CNN
 F 1 "22R" V 5550 5825 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5480 5900 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5550 5900 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5550 5900 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5550 5900 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5480 5900 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5550 5900 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5550 5900 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5550 5900 50  0001 C CNN "Description"
 	1    5550 5900
 	0    1    1    0   
 $EndComp
@@ -3548,11 +3417,11 @@ U 1 1 603E4962
 P 5400 6200
 F 0 "C2" H 5450 6100 50  0000 L CNN
 F 1 "0.1uF" H 5450 6000 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5438 6050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 5400 6200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5438 6050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 5400 6200 50  0001 C CNN
 F 4 "25V" H 5515 6109 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 5400 6200 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 5400 6200 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 5400 6200 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 5400 6200 50  0001 C CNN "Description"
 	1    5400 6200
 	-1   0    0    -1  
 $EndComp
@@ -3613,11 +3482,11 @@ L Diode:SM6T7V5A D3
 U 1 1 603E49A3
 P 6550 6150
 F 0 "D3" V 6650 6200 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 6850 6750 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 6550 5950 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 6500 6150 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 6550 6150 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 6550 6150 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 6850 6750 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 6550 5950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 6500 6150 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 6550 6150 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 6550 6150 50  0001 C CNN "Description"
 	1    6550 6150
 	0    1    1    0   
 $EndComp
@@ -3639,11 +3508,11 @@ L Diode:SM6T7V5A D5
 U 1 1 603E49BA
 P 6750 6150
 F 0 "D5" V 6850 6200 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 6950 6550 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 6750 5950 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 6700 6150 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 6750 6150 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 6750 6150 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 6950 6550 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 6750 5950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 6700 6150 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 6750 6150 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 6750 6150 50  0001 C CNN "Description"
 	1    6750 6150
 	0    1    1    0   
 $EndComp
@@ -3662,10 +3531,10 @@ Wire Wire Line
 	6950 5700 6750 5700
 Connection ~ 6750 5700
 $Comp
-L power:GND #PWR026
+L power:GND #PWR025
 U 1 1 603E49CC
 P 6750 6400
-F 0 "#PWR026" H 6750 6150 50  0001 C CNN
+F 0 "#PWR025" H 6750 6150 50  0001 C CNN
 F 1 "GND" H 6750 6250 50  0000 C CNN
 F 2 "" H 6750 6400 50  0001 C CNN
 F 3 "" H 6750 6400 50  0001 C CNN
@@ -3680,11 +3549,11 @@ U 1 1 60661DF0
 P 6050 4900
 F 0 "C5" H 6100 4800 50  0000 L CNN
 F 1 "18pF" H 6100 4700 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6088 4750 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6050 4900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6088 4750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6050 4900 50  0001 C CNN
 F 4 "50V" H 6165 4809 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6050 4900 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6050 4900 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6050 4900 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6050 4900 50  0001 C CNN "Description"
 	1    6050 4900
 	1    0    0    -1  
 $EndComp
@@ -3694,11 +3563,11 @@ U 1 1 60661E0B
 P 6300 4900
 F 0 "C7" H 6350 4800 50  0000 L CNN
 F 1 "18pF" H 6350 4700 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6338 4750 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6300 4900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6338 4750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6300 4900 50  0001 C CNN
 F 4 "50V" H 6415 4809 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6300 4900 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6300 4900 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6300 4900 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6300 4900 50  0001 C CNN "Description"
 	1    6300 4900
 	1    0    0    -1  
 $EndComp
@@ -3708,10 +3577,10 @@ U 1 1 60661E17
 P 5550 4400
 F 0 "R1" V 5500 4200 50  0000 L CNN
 F 1 "22R" V 5550 4325 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5480 4400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5550 4400 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5550 4400 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5550 4400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5480 4400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5550 4400 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5550 4400 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5550 4400 50  0001 C CNN "Description"
 	1    5550 4400
 	0    1    1    0   
 $EndComp
@@ -3736,10 +3605,10 @@ U 1 1 60661E2F
 P 5550 4600
 F 0 "R2" V 5500 4400 50  0000 L CNN
 F 1 "22R" V 5550 4525 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5480 4600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 5550 4600 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 5550 4600 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 5550 4600 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5480 4600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 5550 4600 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 5550 4600 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 5550 4600 50  0001 C CNN "Description"
 	1    5550 4600
 	0    1    1    0   
 $EndComp
@@ -3755,11 +3624,11 @@ U 1 1 60661E3F
 P 5400 4900
 F 0 "C1" H 5450 4800 50  0000 L CNN
 F 1 "0.1uF" H 5450 4700 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5438 4750 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 5400 4900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5438 4750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 5400 4900 50  0001 C CNN
 F 4 "25V" H 5515 4809 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 5400 4900 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 5400 4900 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 5400 4900 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 5400 4900 50  0001 C CNN "Description"
 	1    5400 4900
 	-1   0    0    -1  
 $EndComp
@@ -3820,11 +3689,11 @@ L Diode:SM6T7V5A D2
 U 1 1 60661E80
 P 6550 4850
 F 0 "D2" V 6650 4900 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 6850 5450 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 6550 4650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 6500 4850 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 6550 4850 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 6550 4850 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 6850 5450 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 6550 4650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 6500 4850 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 6550 4850 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 6550 4850 50  0001 C CNN "Description"
 	1    6550 4850
 	0    1    1    0   
 $EndComp
@@ -3846,11 +3715,11 @@ L Diode:SM6T7V5A D4
 U 1 1 60661E97
 P 6750 4850
 F 0 "D4" V 6850 4900 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 6950 5250 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 6750 4650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 6700 4850 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 6750 4850 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 6750 4850 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 6950 5250 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 6750 4650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 6700 4850 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 6750 4850 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 6750 4850 50  0001 C CNN "Description"
 	1    6750 4850
 	0    1    1    0   
 $EndComp
@@ -3869,10 +3738,10 @@ Wire Wire Line
 	6950 4400 6750 4400
 Connection ~ 6750 4400
 $Comp
-L power:GND #PWR025
+L power:GND #PWR024
 U 1 1 60661EA9
 P 6750 5100
-F 0 "#PWR025" H 6750 4850 50  0001 C CNN
+F 0 "#PWR024" H 6750 4850 50  0001 C CNN
 F 1 "GND" H 6750 4950 50  0000 C CNN
 F 2 "" H 6750 5100 50  0001 C CNN
 F 3 "" H 6750 5100 50  0001 C CNN
@@ -3905,10 +3774,10 @@ U 1 1 610524CE
 P 6050 7250
 F 0 "R12" V 6000 7050 50  0000 L CNN
 F 1 "22R" V 6050 7175 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5980 7250 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 6050 7250 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 6050 7250 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 6050 7250 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5980 7250 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 6050 7250 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 6050 7250 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 6050 7250 50  0001 C CNN "Description"
 	1    6050 7250
 	0    1    1    0   
 $EndComp
@@ -3929,10 +3798,10 @@ U 1 1 610524E6
 P 6050 7350
 F 0 "R13" V 6000 7150 50  0000 L CNN
 F 1 "22R" V 6050 7275 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5980 7350 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 6050 7350 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 6050 7350 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 6050 7350 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5980 7350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 6050 7350 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 6050 7350 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 6050 7350 50  0001 C CNN "Description"
 	1    6050 7350
 	0    1    1    0   
 $EndComp
@@ -3942,11 +3811,11 @@ U 1 1 610524F6
 P 5650 7750
 F 0 "C4" H 5700 7650 50  0000 L CNN
 F 1 "0.1uF" H 5700 7550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5688 7600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 5650 7750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5688 7600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 5650 7750 50  0001 C CNN
 F 4 "25V" H 5765 7659 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 5650 7750 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 5650 7750 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 5650 7750 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 5650 7750 50  0001 C CNN "Description"
 	1    5650 7750
 	-1   0    0    -1  
 $EndComp
@@ -4007,10 +3876,10 @@ U 1 1 61711516
 P 6050 7450
 F 0 "R14" V 6000 7250 50  0000 L CNN
 F 1 "22R" V 6050 7375 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5980 7450 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 6050 7450 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 6050 7450 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 6050 7450 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5980 7450 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 6050 7450 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 6050 7450 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 6050 7450 50  0001 C CNN "Description"
 	1    6050 7450
 	0    1    1    0   
 $EndComp
@@ -4026,11 +3895,11 @@ U 1 1 6182F878
 P 6300 7750
 F 0 "C9" H 6350 7650 50  0000 L CNN
 F 1 "18pF" H 6350 7550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6338 7600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6300 7750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6338 7600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6300 7750 50  0001 C CNN
 F 4 "50V" H 6415 7659 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6300 7750 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6300 7750 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6300 7750 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6300 7750 50  0001 C CNN "Description"
 	1    6300 7750
 	1    0    0    -1  
 $EndComp
@@ -4040,11 +3909,11 @@ U 1 1 6182F893
 P 6550 7750
 F 0 "C11" H 6600 7650 50  0000 L CNN
 F 1 "18pF" H 6600 7550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6588 7600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6550 7750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6588 7600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6550 7750 50  0001 C CNN
 F 4 "50V" H 6665 7659 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6550 7750 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6550 7750 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6550 7750 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6550 7750 50  0001 C CNN "Description"
 	1    6550 7750
 	1    0    0    -1  
 $EndComp
@@ -4079,11 +3948,11 @@ L Diode:SM6T7V5A D7
 U 1 1 6182F8B5
 P 7250 7700
 F 0 "D7" V 7350 7750 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 7500 8500 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 7250 7500 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 7200 7700 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 7250 7700 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 7250 7700 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 7500 8500 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 7250 7500 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 7200 7700 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 7250 7700 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 7250 7700 50  0001 C CNN "Description"
 	1    7250 7700
 	0    1    1    0   
 $EndComp
@@ -4105,11 +3974,11 @@ L Diode:SM6T7V5A D8
 U 1 1 6182F8CC
 P 7450 7700
 F 0 "D8" V 7550 7800 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 7600 8300 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 7450 7500 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 7400 7700 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 7450 7700 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 7450 7700 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 7600 8300 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 7450 7500 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 7400 7700 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 7450 7700 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 7450 7700 50  0001 C CNN "Description"
 	1    7450 7700
 	0    1    1    0   
 $EndComp
@@ -4127,24 +3996,24 @@ $EndComp
 Wire Wire Line
 	7450 7950 7450 7850
 $Comp
-L Device:C C14
+L Device:C C13
 U 1 1 618FCB75
 P 6800 7750
-F 0 "C14" H 6850 7650 50  0000 L CNN
+F 0 "C13" H 6850 7650 50  0000 L CNN
 F 1 "18pF" H 6850 7550 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6838 7600 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805JRNPO9BN180/302836" H 6800 7750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6838 7600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 6800 7750 50  0001 C CNN
 F 4 "50V" H 6915 7659 50  0001 L CNN "Voltage"
-F 5 "CC0805JRNPO9BN180" H 6800 7750 50  0001 C CNN "PartNumber"
-F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)" H 6800 7750 50  0001 C CNN "Description"
+F 5 "CC0402JRNPO9BN180" H 6800 7750 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 6800 7750 50  0001 C CNN "Description"
 	1    6800 7750
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR027
+L power:GND #PWR026
 U 1 1 6195F814
 P 6800 7950
-F 0 "#PWR027" H 6800 7700 50  0001 C CNN
+F 0 "#PWR026" H 6800 7700 50  0001 C CNN
 F 1 "GND" H 6800 7800 50  0000 C CNN
 F 2 "" H 6800 7950 50  0001 C CNN
 F 3 "" H 6800 7950 50  0001 C CNN
@@ -4167,19 +4036,19 @@ L Diode:SM6T7V5A D6
 U 1 1 61C78B73
 P 7050 7700
 F 0 "D6" V 7150 7750 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 7400 8700 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 7050 7500 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 7000 7700 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 7050 7700 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 7050 7700 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 7400 8700 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 7050 7500 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 7000 7700 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 7050 7700 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 7050 7700 50  0001 C CNN "Description"
 	1    7050 7700
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR030
+L power:GND #PWR029
 U 1 1 61C78B7D
 P 7050 7950
-F 0 "#PWR030" H 7050 7700 50  0001 C CNN
+F 0 "#PWR029" H 7050 7700 50  0001 C CNN
 F 1 "GND" H 7050 7800 50  0000 C CNN
 F 2 "" H 7050 7950 50  0001 C CNN
 F 3 "" H 7050 7950 50  0001 C CNN
@@ -4209,15 +4078,15 @@ Wire Wire Line
 Wire Wire Line
 	16800 13000 17200 13000
 $Comp
-L Diode:SM6T7V5A D15
+L Diode:SM6T7V5A D16
 U 1 1 66F896FD
 P 10450 7600
-F 0 "D15" V 10500 7750 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 10600 8000 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 10450 7400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 10400 7600 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 10450 7600 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 10450 7600 50  0001 C CNN "Description"
+F 0 "D16" V 10500 7750 50  0000 C CNN
+F 1 "PESD5V0L1UB,115" V 10600 8000 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 10450 7400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 10400 7600 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 10450 7600 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 10450 7600 50  0001 C CNN "Description"
 	1    10450 7600
 	0    1    1    0   
 $EndComp
@@ -4295,7 +4164,7 @@ P 7450 2650
 F 0 "J4" H 7450 2750 50  0000 C CNN
 F 1 "KLS2-308V-2.54-02P-4S" H 7050 3150 50  0000 C CNN
 F 2 "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal" H 7450 2650 50  0001 C CNN
-F 3 "" H 7450 2650 50  0001 C CNN
+F 3 "http://www.klsele.com/products/Terminal-blocks/560/278.html" H 7450 2650 50  0001 C CNN
 F 4 "KLS2-308V-2.54-02P-4S" H 7450 2650 50  0001 C CNN "PartNumber"
 F 5 "2 Position Wire to Board Terminal Block Horizontal with Board 0.100\" (2.54mm) Through Hole" H 7450 2650 50  0001 C CNN "Description"
 	1    7450 2650
@@ -4374,35 +4243,17 @@ Wire Notes Line
 Wire Notes Line
 	11500 8500 18950 8500
 Wire Wire Line
-	7600 11500 7600 11450
-Wire Wire Line
-	7000 11150 7000 10950
-Connection ~ 7000 10950
-Wire Wire Line
-	7000 10950 7300 10950
-Wire Wire Line
-	7300 11150 7300 10950
-Connection ~ 7300 10950
-Wire Wire Line
-	7300 10950 7600 10950
-Wire Wire Line
-	7600 11150 7600 10950
-Connection ~ 7600 10950
-Wire Wire Line
-	7600 10950 7950 10950
-Wire Wire Line
-	6700 10950 7000 10950
-Connection ~ 6700 10950
+	7650 11150 7650 10950
 $Comp
 L Diode:SM6T7V5A D9
 U 1 1 657898AE
 P 7950 11250
 F 0 "D9" V 7950 11350 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 7600 11550 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 7950 11050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 7900 11250 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 7950 11250 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 7950 11250 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 7600 11550 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 7950 11050 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 7900 11250 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 7950 11250 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 7950 11250 50  0001 C CNN "Description"
 	1    7950 11250
 	0    1    1    0   
 $EndComp
@@ -4434,10 +4285,10 @@ U 1 1 6522F14A
 P 12050 3400
 F 0 "R36" H 12050 3550 50  0000 L CNN
 F 1 "16.2K" V 12150 3300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 11980 3400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0716K2L/727622" H 12050 3400 50  0001 C CNN
-F 4 "RC0805FR-0716K2L" H 12050 3400 50  0001 C CNN "PartNumber"
-F 5 "16.2 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 12050 3400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11980 3400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0716K2L/726545" H 12050 3400 50  0001 C CNN
+F 4 "RC0402FR-0716K2L" H 12050 3400 50  0001 C CNN "PartNumber"
+F 5 "16.2 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12050 3400 50  0001 C CNN "Description"
 	1    12050 3400
 	1    0    0    -1  
 $EndComp
@@ -4447,10 +4298,10 @@ U 1 1 6522EEB1
 P 12250 3400
 F 0 "R38" H 12250 3550 50  0000 L CNN
 F 1 "8.25K" V 12350 3300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12180 3400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-078K25L/728149" H 12250 3400 50  0001 C CNN
-F 4 "RC0805FR-078K25L" H 12250 3400 50  0001 C CNN "PartNumber"
-F 5 "8.25 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 12250 3400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 12180 3400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-078K25L/2827612" H 12250 3400 50  0001 C CNN
+F 4 "RC0402FR-078K25L" H 12250 3400 50  0001 C CNN "PartNumber"
+F 5 "8.25 kOhms ±1% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12250 3400 50  0001 C CNN "Description"
 	1    12250 3400
 	1    0    0    -1  
 $EndComp
@@ -4460,10 +4311,10 @@ U 1 1 651BC937
 P 12450 3400
 F 0 "R39" H 12450 3550 50  0000 L CNN
 F 1 "5.11K" V 12550 3300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 12380 3400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-075K11L/727990" H 12450 3400 50  0001 C CNN
-F 4 "RC0805FR-075K11L" H 12450 3400 50  0001 C CNN "PartNumber"
-F 5 "5.11 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 12450 3400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 12380 3400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-075K11L/2827606" H 12450 3400 50  0001 C CNN
+F 4 "RC0402FR-075K11L" H 12450 3400 50  0001 C CNN "PartNumber"
+F 5 "5.11 kOhms ±1% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 12450 3400 50  0001 C CNN "Description"
 	1    12450 3400
 	1    0    0    -1  
 $EndComp
@@ -4498,11 +4349,11 @@ U 1 1 632EF0A8
 P 9050 3200
 F 0 "C23" H 9165 3246 50  0000 L CNN
 F 1 "10uF" H 9165 3155 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9088 3050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 9050 3200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9088 3050 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 9050 3200 50  0001 C CNN
 F 4 "25V" H 9165 3109 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 9050 3200 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 9050 3200 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 9050 3200 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 9050 3200 50  0001 C CNN "Description"
 	1    9050 3200
 	-1   0    0    -1  
 $EndComp
@@ -4512,7 +4363,7 @@ U 1 1 62EEC9D5
 P 7900 2650
 F 0 "F1" V 7675 2650 50  0000 C CNN
 F 1 "0ZCJ0100FF2E" V 7800 2900 50  0000 C CNN
-F 2 "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7950 2450 50  0001 L CNN
+F 2 "Fuse:Fuse_1206_3216Metric" H 7950 2450 50  0001 L CNN
 F 3 "https://www.digikey.com/en/products/detail/bel-fuse-inc/0ZCJ0100FF2E/4156136" H 7900 2650 50  0001 C CNN
 F 4 "0ZCJ0100FF2E" V 7900 2650 50  0001 C CNN "PartNumber"
 F 5 "Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave" V 7900 2650 50  0001 C CNN "Description"
@@ -4582,10 +4433,10 @@ U 1 1 5FFCA30A
 P 14700 3400
 F 0 "R51" H 14770 3446 50  0000 L CNN
 F 1 "10K" H 14770 3355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 14630 3400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 14700 3400 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 14700 3400 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 14700 3400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 14630 3400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 14700 3400 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 14700 3400 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 14700 3400 50  0001 C CNN "Description"
 	1    14700 3400
 	1    0    0    -1  
 $EndComp
@@ -4663,11 +4514,11 @@ U 1 1 5FF95A1C
 P 13950 3150
 F 0 "C48" H 14065 3196 50  0000 L CNN
 F 1 "1uF" H 14065 3105 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 13988 3000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KKX7R8BB105/2833621" H 13950 3150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 13988 3000 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R7BB105/2833611" H 13950 3150 50  0001 C CNN
 F 4 "25V" H 14065 3059 50  0001 L CNN "Voltage"
-F 5 "CC0805KKX7R8BB105" H 13950 3150 50  0001 C CNN "PartNumber"
-F 6 "1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 13950 3150 50  0001 C CNN "Description"
+F 5 "CC0603KRX7R7BB105" H 13950 3150 50  0001 C CNN "PartNumber"
+F 6 "1µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)" H 13950 3150 50  0001 C CNN "Description"
 	1    13950 3150
 	1    0    0    -1  
 $EndComp
@@ -4710,10 +4561,10 @@ U 1 1 5FD13503
 P 10250 3400
 F 0 "R33" H 10320 3446 50  0000 L CNN
 F 1 "10K" H 10320 3355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10180 3400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 10250 3400 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 10250 3400 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 10250 3400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10180 3400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 10250 3400 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 10250 3400 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 10250 3400 50  0001 C CNN "Description"
 	1    10250 3400
 	-1   0    0    -1  
 $EndComp
@@ -4745,10 +4596,10 @@ U 1 1 5FC673BD
 P 10400 3400
 F 0 "R35" H 10470 3446 50  0000 L CNN
 F 1 "10K" H 10470 3355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10330 3400 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 10400 3400 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 10400 3400 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 10400 3400 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10330 3400 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 10400 3400 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 10400 3400 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 10400 3400 50  0001 C CNN "Description"
 	1    10400 3400
 	1    0    0    -1  
 $EndComp
@@ -4782,11 +4633,11 @@ U 1 1 60393927
 P 9500 3200
 F 0 "C29" H 9250 3250 50  0000 L CNN
 F 1 "10uF" H 9200 3150 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9538 3050 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 9500 3200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9538 3050 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 9500 3200 50  0001 C CNN
 F 4 "25V" H 9615 3109 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 9500 3200 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 9500 3200 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 9500 3200 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 9500 3200 50  0001 C CNN "Description"
 	1    9500 3200
 	1    0    0    -1  
 $EndComp
@@ -4850,11 +4701,11 @@ U 1 1 6028B166
 P 13100 2900
 F 0 "C43" H 13215 2946 50  0000 L CNN
 F 1 "10uF" H 13215 2855 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 13138 2750 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 13100 2900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 13138 2750 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 13100 2900 50  0001 C CNN
 F 4 "25V" H 13215 2809 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 13100 2900 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 13100 2900 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 13100 2900 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 13100 2900 50  0001 C CNN "Description"
 	1    13100 2900
 	1    0    0    -1  
 $EndComp
@@ -4864,11 +4715,11 @@ U 1 1 60288C5B
 P 12700 2900
 F 0 "C39" H 12815 2946 50  0000 L CNN
 F 1 "10uF" H 12815 2855 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 12738 2750 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 12700 2900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12738 2750 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 12700 2900 50  0001 C CNN
 F 4 "25V" H 12815 2809 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 12700 2900 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 12700 2900 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 12700 2900 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 12700 2900 50  0001 C CNN "Description"
 	1    12700 2900
 	1    0    0    -1  
 $EndComp
@@ -4881,11 +4732,11 @@ L Diode:SM6T7V5A D10
 U 1 1 659DC230
 P 8200 3200
 F 0 "D10" V 8100 3300 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" H 8250 3100 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 8200 3000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 8150 3200 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 8200 3200 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 8200 3200 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" H 8250 3100 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 8200 3000 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 8150 3200 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 8200 3200 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 8200 3200 50  0001 C CNN "Description"
 	1    8200 3200
 	0    1    1    0   
 $EndComp
@@ -5000,11 +4851,11 @@ U 1 1 5FF64258
 P 15800 3150
 F 0 "C54" H 15915 3196 50  0000 L CNN
 F 1 "10uF" H 15915 3105 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 15838 3000 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206KKX7R8BB106/5195365" H 15800 3150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 15838 3000 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 15800 3150 50  0001 C CNN
 F 4 "25V" H 15915 3059 50  0001 L CNN "Voltage"
-F 5 "CC1206KKX7R8BB106" H 15800 3150 50  0001 C CNN "PartNumber"
-F 6 "10µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)" H 15800 3150 50  0001 C CNN "Description"
+F 5 "CC0805MKX7R7BB106" H 15800 3150 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 15800 3150 50  0001 C CNN "Description"
 	1    15800 3150
 	1    0    0    -1  
 $EndComp
@@ -5134,12 +4985,12 @@ $EndComp
 $Comp
 L power:+3V3 #PWR076
 U 1 1 66E1FD78
-P 10350 12600
-F 0 "#PWR076" H 10350 12450 50  0001 C CNN
-F 1 "+3V3" H 10365 12773 50  0000 C CNN
-F 2 "" H 10350 12600 50  0001 C CNN
-F 3 "" H 10350 12600 50  0001 C CNN
-	1    10350 12600
+P 10350 12350
+F 0 "#PWR076" H 10350 12200 50  0001 C CNN
+F 1 "+3V3" H 10365 12523 50  0000 C CNN
+F 2 "" H 10350 12350 50  0001 C CNN
+F 3 "" H 10350 12350 50  0001 C CNN
+	1    10350 12350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -5194,7 +5045,7 @@ P 8150 4550
 F 0 "J6" H 8100 4300 50  0000 C CNN
 F 1 "KLS2-308V-2.54-03P-4S" H 8100 4200 50  0000 C CNN
 F 2 "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal" H 8150 4550 50  0001 C CNN
-F 3 "" H 8150 4550 50  0001 C CNN
+F 3 "http://www.klsele.com/products/Terminal-blocks/560/278.html" H 8150 4550 50  0001 C CNN
 F 4 "KLS2-308V-2.54-03P-4S" H 8150 4550 50  0001 C CNN "PartNumber"
 F 5 "3 Position Wire to Board Terminal Block Horizontal with Board 0.100\" (2.54mm) Through Hole" H 8150 4550 50  0001 C CNN "Description"
 	1    8150 4550
@@ -5206,10 +5057,10 @@ U 1 1 5FD6AB00
 P 9700 4900
 F 0 "R27" H 9750 4850 50  0000 L CNN
 F 1 "10K" H 9750 4750 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9630 4900 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 9700 4900 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 9700 4900 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 9700 4900 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9630 4900 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 9700 4900 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 9700 4900 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9700 4900 50  0001 C CNN "Description"
 	1    9700 4900
 	1    0    0    -1  
 $EndComp
@@ -5230,11 +5081,11 @@ U 1 1 5FD6AB18
 P 8850 4850
 F 0 "C22" H 8900 4750 50  0000 L CNN
 F 1 "0.1uF" H 8900 4650 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 8888 4700 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R8BB104/302875" H 8850 4850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8888 4700 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 8850 4850 50  0001 C CNN
 F 4 "25V" H 8965 4759 50  0001 L CNN "Voltage"
-F 5 "CC0805KRX7R8BB104" H 8850 4850 50  0001 C CNN "PartNumber"
-F 6 "0.1µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 8850 4850 50  0001 C CNN "Description"
+F 5 "CC0402KRX7R7BB104" H 8850 4850 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 8850 4850 50  0001 C CNN "Description"
 	1    8850 4850
 	1    0    0    -1  
 $EndComp
@@ -5244,10 +5095,10 @@ U 1 1 5FD6AB24
 P 8600 4650
 F 0 "R22" V 8550 4750 50  0000 L CNN
 F 1 "22R" V 8600 4600 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 8530 4650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 8600 4650 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 8600 4650 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 8600 4650 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 8530 4650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 8600 4650 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 8600 4650 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 8600 4650 50  0001 C CNN "Description"
 	1    8600 4650
 	0    1    1    0   
 $EndComp
@@ -5260,20 +5111,6 @@ F 1 "GND" H 8850 4900 50  0000 C CNN
 F 2 "" H 8850 5100 50  0001 C CNN
 F 3 "" H 8850 5100 50  0001 C CNN
 	1    8850 5100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C25
-U 1 1 5FD6AB3B
-P 9200 4850
-F 0 "C25" H 9250 4750 50  0000 L CNN
-F 1 "10nF" H 9250 4650 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9238 4700 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 9200 4850 50  0001 C CNN
-F 4 "100V" H 9315 4759 50  0001 L CNN "Voltage"
-F 5 "CC1206JKNPO0BN103" H 9200 4850 50  0001 C CNN "PartNumber"
-F 6 "10000pF ±5% 100V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)" H 9200 4850 50  0001 C CNN "Description"
-	1    9200 4850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -5293,30 +5130,17 @@ U 1 1 5FD6AB53
 P 8600 4550
 F 0 "R21" V 8550 4300 50  0000 L CNN
 F 1 "470R" V 8600 4450 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 8530 4550 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 8600 4550 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 8600 4550 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 8600 4550 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 8530 4550 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 8600 4550 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 8600 4550 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 8600 4550 50  0001 C CNN "Description"
 	1    8600 4550
 	0    -1   1    0   
-$EndComp
-$Comp
-L power:GND #PWR050
-U 1 1 5FD6AB5D
-P 9200 5100
-F 0 "#PWR050" H 9200 4850 50  0001 C CNN
-F 1 "GND" H 9200 4900 50  0000 C CNN
-F 2 "" H 9200 5100 50  0001 C CNN
-F 3 "" H 9200 5100 50  0001 C CNN
-	1    9200 5100
-	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	8750 4650 9200 4650
 Wire Wire Line
 	8850 5100 8850 5000
-Wire Wire Line
-	9200 5100 9200 5000
 Wire Wire Line
 	9200 4700 9200 4650
 Connection ~ 9200 4650
@@ -5338,11 +5162,11 @@ L Diode:SM6T7V5A D11
 U 1 1 5FD6AB7D
 P 10100 4850
 F 0 "D11" V 10200 4900 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 10450 5500 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 10100 4650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 10050 4850 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 10100 4850 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 10100 4850 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 10450 5500 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 10100 4650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 10050 4850 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 10100 4850 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 10100 4850 50  0001 C CNN "Description"
 	1    10100 4850
 	0    1    1    0   
 $EndComp
@@ -5358,10 +5182,10 @@ U 1 1 5FED167F
 P 8600 4450
 F 0 "R20" V 8550 4550 50  0000 L CNN
 F 1 "22R" V 8600 4400 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 8530 4450 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-0722RL/728285" H 8600 4450 50  0001 C CNN
-F 4 "RC0805JR-0722RL" H 8600 4450 50  0001 C CNN "PartNumber"
-F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 8600 4450 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 8530 4450 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402JR-0722RL/726444" H 8600 4450 50  0001 C CNN
+F 4 "RC0402JR-0722RL" H 8600 4450 50  0001 C CNN "PartNumber"
+F 5 "22 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 8600 4450 50  0001 C CNN "Description"
 	1    8600 4450
 	0    1    1    0   
 $EndComp
@@ -5376,33 +5200,6 @@ Wire Wire Line
 Connection ~ 8850 4550
 Wire Wire Line
 	8450 4450 8350 4450
-$Comp
-L Device:C C27
-U 1 1 601879EB
-P 9450 4850
-F 0 "C27" H 9500 4750 50  0000 L CNN
-F 1 "10nF" H 9500 4650 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9488 4700 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/CC1206JKNPO0BN103/5884391" H 9450 4850 50  0001 C CNN
-F 4 "100V" H 9565 4759 50  0001 L CNN "Voltage"
-F 5 "CC1206JKNPO0BN103" H 9450 4850 50  0001 C CNN "PartNumber"
-F 6 "10000pF ±5% 100V Ceramic Capacitor C0G, NP0 1206 (3216 Metric)" H 9450 4850 50  0001 C CNN "Description"
-	1    9450 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR053
-U 1 1 601879F5
-P 9450 5100
-F 0 "#PWR053" H 9450 4850 50  0001 C CNN
-F 1 "GND" H 9450 4900 50  0000 C CNN
-F 2 "" H 9450 5100 50  0001 C CNN
-F 3 "" H 9450 5100 50  0001 C CNN
-	1    9450 5100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9450 5100 9450 5000
 Wire Wire Line
 	9450 4700 9450 4450
 Wire Wire Line
@@ -5425,11 +5222,11 @@ L Diode:SM6T7V5A D13
 U 1 1 6026B95B
 P 10300 4850
 F 0 "D13" V 10400 4900 50  0000 C CNN
-F 1 "PESD5V0L1UA,115" V 10550 5300 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-323_HandSoldering" H 10300 4650 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UA115/2119839" H 10250 4850 50  0001 C CNN
-F 4 "PESD5V0L1UA,115" H 10300 4850 50  0001 C CNN "PartNumber"
-F 5 "5V 3.5A (8/20µs) Ipp ESD protection TVS Diode Surface Mount SOD-323" H 10300 4850 50  0001 C CNN "Description"
+F 1 "PESD5V0L1UB,115" V 10550 5300 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 10300 4650 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PESD5V0L1UB115/2092297" H 10250 4850 50  0001 C CNN
+F 4 "PESD5V0L1UB,115" H 10300 4850 50  0001 C CNN "PartNumber"
+F 5 "12V Clamp 3.5A (8/20µs) Ipp Tvs Diode Surface Mount SOD-523" H 10300 4850 50  0001 C CNN "Description"
 	1    10300 4850
 	0    1    1    0   
 $EndComp
@@ -5439,10 +5236,10 @@ U 1 1 602DFC3B
 P 9900 4900
 F 0 "R29" H 9950 4850 50  0000 L CNN
 F 1 "10K" H 9950 4750 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9830 4900 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 9900 4900 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 9900 4900 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 9900 4900 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9830 4900 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 9900 4900 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 9900 4900 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 9900 4900 50  0001 C CNN "Description"
 	1    9900 4900
 	1    0    0    -1  
 $EndComp
@@ -5584,10 +5381,10 @@ U 1 1 600276E4
 P 7100 9150
 F 0 "R16" V 7200 9150 50  0000 L CNN
 F 1 "10K" V 7200 8800 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7030 9150 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KP/4935334" H 7100 9150 50  0001 C CNN
-F 4 "RC0805FR-0710KP" H 7100 9150 50  0001 C CNN "PartNumber"
-F 5 "10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film" H 7100 9150 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 7030 9150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523" H 7100 9150 50  0001 C CNN
+F 4 "RC0402FR-0710KL" H 7100 9150 50  0001 C CNN "PartNumber"
+F 5 "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film" H 7100 9150 50  0001 C CNN "Description"
 	1    7100 9150
 	0    1    1    0   
 $EndComp
@@ -5669,10 +5466,10 @@ U 1 1 60CA40CA
 P 16250 4900
 F 0 "R52" V 16450 4850 50  0000 L CNN
 F 1 "470R" V 16350 4800 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 16180 4900 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 16250 4900 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 16250 4900 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 16250 4900 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 16180 4900 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 16250 4900 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 16250 4900 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 16250 4900 50  0001 C CNN "Description"
 	1    16250 4900
 	-1   0    0    -1  
 $EndComp
@@ -5682,36 +5479,36 @@ U 1 1 60CA64F6
 P 16700 4900
 F 0 "R53" V 16900 4850 50  0000 L CNN
 F 1 "470R" V 16800 4800 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 16630 4900 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/yageo/RC0805JR-07470RL/728333" H 16700 4900 50  0001 C CNN
-F 4 "RC0805JR-07470RL" H 16700 4900 50  0001 C CNN "PartNumber"
-F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)  Thick Film" H 16700 4900 50  0001 C CNN "Description"
+F 2 "Resistor_SMD:R_0402_1005Metric" V 16630 4900 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 16700 4900 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 16700 4900 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 16700 4900 50  0001 C CNN "Description"
 	1    16700 4900
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Device:LED D16
+L Device:LED D17
 U 1 1 60CA9DAF
 P 16250 5300
-F 0 "D16" V 16300 5500 50  0000 R CNN
+F 0 "D17" V 16300 5500 50  0000 R CNN
 F 1 "LED_RED" V 16200 5700 50  0000 R CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 16250 5300 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/kingbright/APT2012SRCPRV/1747531" H 16250 5300 50  0001 C CNN
-F 4 "APT2012SRCPRV" V 16250 5300 50  0001 C CNN "PartNumber"
-F 5 "Red 640nm LED Indication - Discrete 1.85V 0805 (2012 Metric)" V 16250 5300 50  0001 C CNN "Description"
+F 2 "LED_SMD:LED_0603_1608Metric" H 16250 5300 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/kingbright/APT1608SURCK/1747522" H 16250 5300 50  0001 C CNN
+F 4 "APT1608SURCK" V 16250 5300 50  0001 C CNN "PartNumber"
+F 5 "Red 630nm LED Indication - Discrete 1.95V 0603 (1608 Metric)" V 16250 5300 50  0001 C CNN "Description"
 	1    16250 5300
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED D17
+L Device:LED D18
 U 1 1 60CAAE98
 P 16700 5300
-F 0 "D17" V 16739 5182 50  0000 R CNN
+F 0 "D18" V 16739 5182 50  0000 R CNN
 F 1 "LED_GREEN" V 16648 5182 50  0000 R CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 16700 5300 50  0001 C CNN
-F 3 "https://www.digikey.com/en/products/detail/kingbright/APT2012CGCK/1747526" H 16700 5300 50  0001 C CNN
-F 4 "APT2012CGCK" V 16700 5300 50  0001 C CNN "PartNumber"
-F 5 "Green 570nm LED Indication - Discrete 2.1V 0805 (2012 Metric)" V 16700 5300 50  0001 C CNN "Description"
+F 2 "LED_SMD:LED_0603_1608Metric" H 16700 5300 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/kingbright/APT1608CGCK/1747514" H 16700 5300 50  0001 C CNN
+F 4 "APT1608CGCK" V 16700 5300 50  0001 C CNN "PartNumber"
+F 5 "Green 570nm LED Indication - Discrete 2.1V 0603 (1608 Metric)" V 16700 5300 50  0001 C CNN "Description"
 	1    16700 5300
 	0    -1   -1   0   
 $EndComp
@@ -5816,11 +5613,214 @@ U 1 1 618A22D9
 P 13750 9350
 F 0 "U4" H 14000 9750 50  0000 R CNN
 F 1 "ISL21080DIH310Z-TK" H 14700 9850 50  0000 R CNN
-F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 14750 8850 50  0001 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23W" H 14750 8850 50  0001 C CNN
 F 3 "https://www.digikey.com/en/products/detail/renesas-electronics-america-inc/ISL21080DIH310Z-TK/2551514" H 14250 9750 50  0001 C CNN
 F 4 "ISL21080DIH310Z-TK" H 14350 8950 50  0001 C CNN "PartNumber"
 F 5 "Series Voltage Reference IC, 1.024V, ±0.7%  SOT-23-3" H 14950 8750 50  0001 C CNN "Description"
 	1    13750 9350
 	1    0    0    -1  
 $EndComp
+Wire Notes Line
+	18450 10750 18450 9950
+Wire Notes Line
+	17700 9950 17700 10750
+$Comp
+L Device:R R34
+U 1 1 60724DAE
+P 10350 12600
+F 0 "R34" V 10550 12550 50  0000 L CNN
+F 1 "470R" V 10450 12500 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10280 12600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/RC0402FR-07470RL/726619" H 10350 12600 50  0001 C CNN
+F 4 "RC0402FR-07470RL" H 10350 12600 50  0001 C CNN "PartNumber"
+F 5 "470 Ohms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric)  Thick Film" H 10350 12600 50  0001 C CNN "Description"
+	1    10350 12600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D14
+U 1 1 60724DBA
+P 10350 12950
+F 0 "D14" V 10400 13150 50  0000 R CNN
+F 1 "LED_RED" V 10300 13350 50  0000 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 10350 12950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/kingbright/APT1608SURCK/1747522" H 10350 12950 50  0001 C CNN
+F 4 "APT1608SURCK" V 10350 12950 50  0001 C CNN "PartNumber"
+F 5 "Red 630nm LED Indication - Discrete 1.95V 0603 (1608 Metric)" V 10350 12950 50  0001 C CNN "Description"
+	1    10350 12950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10350 13200 10350 13100
+Wire Wire Line
+	10350 12800 10350 12750
+Wire Wire Line
+	10350 12450 10350 12350
+Connection ~ 7350 10950
+Wire Wire Line
+	7350 10950 7650 10950
+Connection ~ 7650 10950
+Wire Wire Line
+	7650 10950 7950 10950
+Wire Wire Line
+	6500 10950 6800 10950
+$Comp
+L Device:C C14
+U 1 1 60CAC136
+P 6800 11300
+F 0 "C14" H 6850 11400 50  0000 L CNN
+F 1 "10uF" H 6850 11200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 6838 11150 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 6800 11300 50  0001 C CNN
+F 4 "25V" H 6915 11209 50  0001 L CNN "Voltage"
+F 5 "CC0805MKX7R7BB106" H 6800 11300 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 6800 11300 50  0001 C CNN "Description"
+	1    6800 11300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C16
+U 1 1 60CAC143
+P 7100 11300
+F 0 "C16" H 7150 11400 50  0000 L CNN
+F 1 "10uF" H 7150 11200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 7138 11150 50  0001 C CNN
+F 3 "digikey.com/en/products/detail/yageo/CC0805MKX7R7BB106/7164392" H 7100 11300 50  0001 C CNN
+F 4 "25V" H 7215 11209 50  0001 L CNN "Voltage"
+F 5 "CC0805MKX7R7BB106" H 7100 11300 50  0001 C CNN "PartNumber"
+F 6 "10µF ±20% 16V Ceramic Capacitor X7R 0805 (2012 Metric)" H 7100 11300 50  0001 C CNN "Description"
+	1    7100 11300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR027
+U 1 1 60CAC14D
+P 6800 11500
+F 0 "#PWR027" H 6800 11250 50  0001 C CNN
+F 1 "GND" H 6800 11350 50  0000 C CNN
+F 2 "" H 6800 11500 50  0001 C CNN
+F 3 "" H 6800 11500 50  0001 C CNN
+	1    6800 11500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR030
+U 1 1 60CAC157
+P 7100 11500
+F 0 "#PWR030" H 7100 11250 50  0001 C CNN
+F 1 "GND" H 7100 11350 50  0000 C CNN
+F 2 "" H 7100 11500 50  0001 C CNN
+F 3 "" H 7100 11500 50  0001 C CNN
+	1    7100 11500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 11500 6800 11450
+Wire Wire Line
+	7100 11500 7100 11450
+$Comp
+L Device:C C25
+U 1 1 60EB3B63
+P 9200 4850
+F 0 "C25" H 9250 4750 50  0000 L CNN
+F 1 "18pF" H 9250 4650 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9238 4700 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 9200 4850 50  0001 C CNN
+F 4 "50V" H 9315 4759 50  0001 L CNN "Voltage"
+F 5 "CC0402JRNPO9BN180" H 9200 4850 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 9200 4850 50  0001 C CNN "Description"
+	1    9200 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C27
+U 1 1 60EB3B70
+P 9450 4850
+F 0 "C27" H 9500 4750 50  0000 L CNN
+F 1 "18pF" H 9500 4650 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9488 4700 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 9450 4850 50  0001 C CNN
+F 4 "50V" H 9565 4759 50  0001 L CNN "Voltage"
+F 5 "CC0402JRNPO9BN180" H 9450 4850 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 9450 4850 50  0001 C CNN "Description"
+	1    9450 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR050
+U 1 1 60EB3B7A
+P 9200 5050
+F 0 "#PWR050" H 9200 4800 50  0001 C CNN
+F 1 "GND" H 9200 4900 50  0000 C CNN
+F 2 "" H 9200 5050 50  0001 C CNN
+F 3 "" H 9200 5050 50  0001 C CNN
+	1    9200 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9200 5050 9200 5000
+$Comp
+L power:GND #PWR053
+U 1 1 60EB3B85
+P 9450 5050
+F 0 "#PWR053" H 9450 4800 50  0001 C CNN
+F 1 "GND" H 9450 4900 50  0000 C CNN
+F 2 "" H 9450 5050 50  0001 C CNN
+F 3 "" H 9450 5050 50  0001 C CNN
+	1    9450 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9450 5050 9450 5000
+$Comp
+L power:GND #PWR063
+U 1 1 60F3282D
+P 9800 7850
+F 0 "#PWR063" H 9800 7600 50  0001 C CNN
+F 1 "GND" H 9800 7700 50  0000 C CNN
+F 2 "" H 9800 7850 50  0001 C CNN
+F 3 "" H 9800 7850 50  0001 C CNN
+	1    9800 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C32
+U 1 1 60F32823
+P 9800 7600
+F 0 "C32" H 9850 7500 50  0000 L CNN
+F 1 "18pF" H 9850 7400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9838 7450 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN180/2833580" H 9800 7600 50  0001 C CNN
+F 4 "50V" H 9915 7509 50  0001 L CNN "Voltage"
+F 5 "CC0402JRNPO9BN180" H 9800 7600 50  0001 C CNN "PartNumber"
+F 6 "18pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)" H 9800 7600 50  0001 C CNN "Description"
+	1    9800 7600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9800 7750 9800 7850
+$Comp
+L Device:C C17
+U 1 1 611A6FF6
+P 7200 9750
+F 0 "C17" H 7250 9650 50  0000 L CNN
+F 1 "0.1uF" H 7250 9550 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 7238 9600 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/yageo/CC0402KRX7R7BB104/2103076" H 7200 9750 50  0001 C CNN
+F 4 "25V" H 7315 9659 50  0001 L CNN "Voltage"
+F 5 "CC0402KRX7R7BB104" H 7200 9750 50  0001 C CNN "PartNumber"
+F 6 "0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)" H 7200 9750 50  0001 C CNN "Description"
+	1    7200 9750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 11150 7100 10950
+Connection ~ 7100 10950
+Wire Wire Line
+	7100 10950 7350 10950
+Wire Wire Line
+	6800 11150 6800 10950
+Connection ~ 6800 10950
+Wire Wire Line
+	6800 10950 7100 10950
 $EndSCHEMATC
