@@ -1810,9 +1810,7 @@ Text GLabel 17650 11500 2    50   Input ~ 0
 SCL
 Wire Wire Line
 	16800 11500 17500 11500
-Wire Wire Line
-	16800 11700 17650 11700
-Text GLabel 17650 11700 2    50   Input ~ 0
+Text GLabel 14400 13100 0    50   Input ~ 0
 CS
 Text GLabel 17650 11800 2    50   Input ~ 0
 INT1
@@ -5120,10 +5118,8 @@ F 5 "KLS1-207-1-04-S" H 8700 5850 50  0001 C CNN "PartNumber"
 	1    8700 5850
 	1    0    0    -1  
 $EndComp
-Text GLabel 17650 11900 2    50   Input ~ 0
+Text GLabel 14400 13200 0    50   Input ~ 0
 SDO
-Wire Wire Line
-	17650 11900 16800 11900
 Wire Notes Line
 	17450 11200 17450 12000
 Wire Notes Line
@@ -5645,4 +5641,8 @@ Wire Wire Line
 	18800 11050 18800 11100
 Text Notes 18900 10950 2    50   ~ 0
 RTC EDLC
+Wire Wire Line
+	14800 13100 14400 13100
+Wire Wire Line
+	14800 13200 14400 13200
 $EndSCHEMATC
