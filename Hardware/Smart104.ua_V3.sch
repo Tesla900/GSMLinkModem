@@ -3680,8 +3680,6 @@ Wire Notes Line
 Text Notes 6800 4150 0    100  ~ 0
 External connectors
 Wire Notes Line
-	5050 8500 11250 8500
-Wire Notes Line
 	5050 14350 11250 14350
 Wire Notes Line
 	4550 8500 4550 14350
@@ -4661,7 +4659,7 @@ Wire Wire Line
 	17600 12100 17600 12250
 Wire Wire Line
 	17600 12250 17800 12250
-Text Notes 17500 14200 0    50   ~ 0
+Text Notes 17400 14200 0    50   ~ 0
 Connect reed switch here
 Text Notes 17200 14100 0    50   ~ 0
 Pin to wake-up MCU from EM4 sleep
@@ -4731,8 +4729,6 @@ Wire Notes Line
 	4550 4200 11250 4200
 Wire Notes Line
 	5000 14350 4550 14350
-Wire Notes Line
-	4950 8500 4550 8500
 Wire Notes Line
 	14600 12600 14600 14250
 Wire Notes Line
@@ -5546,4 +5542,6 @@ F 7 "DNP" H 13600 13500 50  0001 C CNN "DoNotPlaceStatus"
 	1    13600 13500
 	1    0    0    -1  
 $EndComp
+Wire Notes Line
+	4550 8500 11250 8500
 $EndSCHEMATC
