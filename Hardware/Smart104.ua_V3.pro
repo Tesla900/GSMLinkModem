@@ -1,4 +1,4 @@
-update=10/12/2020 14:31:14
+update=18/12/2020 18:05:27
 version=1
 last_client=kicad
 [general]
@@ -246,7 +246,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=E:/work/Smart104.ua_V3/
+PlotDirectoryName=E:/work/Smart104.ua_V3/Hardware/Info/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
