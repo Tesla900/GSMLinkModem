@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source E:\work\Smart104.ua_V3\Hardware\Smart104.ua_V3.sch)
-    (date "20/12/2020 05:11:02")
+    (source E:\work\Smart104.ua_V3_rev2\Hardware\Smart104.ua_V3_rev2.sch)
+    (date "17/01/2021 21:43:26")
     (tool "Eeschema (5.1.7)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -9,7 +9,7 @@
         (company RGC)
         (rev 1.0)
         (date 2020-11-22)
-        (source Smart104.ua_V3.sch)
+        (source Smart104.ua_V3_rev2.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
@@ -165,7 +165,7 @@
       (tstamp 5FBD5AB9))
     (comp (ref U7)
       (value LIS3DH)
-      (footprint Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y)
+      (footprint mylib-footprints:LGA-16_3x3mm_P0.5mm_fixed)
       (datasheet https://www.digikey.com/en/products/detail/stmicroelectronics/LIS3DHTR/2334338)
       (fields
         (field (name Description) "Accelerometer X, Y, Z Axis ±2g, 4g, 8g, 16g 0.5Hz ~ 625Hz 16-LGA (3x3)")
